@@ -21,5 +21,7 @@ def get_sales(date: str, page: int=1) -> List[Dict[str, Any]]:
 
     return response.json()
 
+
 sales_json = get_sales(date, page)
+
 print("Response JSON", sales_json)
