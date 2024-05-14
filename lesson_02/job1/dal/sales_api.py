@@ -1,16 +1,18 @@
 from typing import List, Dict, Any
+import requests
+from requests import Response
+from lesson_02.constants import API_URL, AUTH_TOKEN
 
-API_URL = 'https://fake-api-vycpfa6oca-uc.a.run.app/'
+# date = "2022-08-09"
+# page = 1
 
-
-def get_sales(date: str) -> List[Dict[str, Any]]:
+def get_sales(date: str, page: int=1) -> List[Dict[str, Any]]:
     """
     Get data from sales API for specified date.
 
-    :param date: data retrieve the data from
+    :param date: date retrieve the data from
     :return: list of records
     """
-    # TODO: implement me
 
     # dummy return:
     return [
