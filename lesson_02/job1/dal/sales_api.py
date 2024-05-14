@@ -3,8 +3,8 @@ import requests
 from requests import Response
 from lesson_02.constants import API_URL, AUTH_TOKEN
 
-# date = "2022-08-09"
-# page = 1
+date = "2022-08-09"
+page = 1
 
 def get_sales(date: str, page: int=1) -> List[Dict[str, Any]]:
     """
@@ -13,20 +13,13 @@ def get_sales(date: str, page: int=1) -> List[Dict[str, Any]]:
     :param date: date retrieve the data from
     :return: list of records
     """
+    response = requests.get(
+        url=API_URL,
+        params={'date': date, 'page': page},
+        headers={'Authorization': AUTH_TOKEN},
+    )
 
-    # dummy return:
-    return [
-        {
-            "client": "Tara King",
-            "purchase_date": "2022-08-09",
-            "product": "Phone",
-            "price": 1062
-        },
-        {
-            "client": "Lauren Hawkins",
-            "purchase_date": "2022-08-09",
-            "product": "TV",
-            "price": 1373
-        },
-        # ...
-    ]
+    return response.json()
+
+sales_json = get_sales(date, page)
+print("Response JSON", sales_json)
