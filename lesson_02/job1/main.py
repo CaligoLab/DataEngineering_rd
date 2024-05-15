@@ -21,7 +21,7 @@ app = Flask(__name__)
 def main() -> flask_typing.ResponseReturnValue:
     """
     Controller that accepts command via HTTP and
-    trigger business logic layer
+    triggers business logic layer
 
     Proposed POST body in JSON:
     {
