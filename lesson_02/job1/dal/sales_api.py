@@ -35,6 +35,3 @@ def get_status_code(date: str, page: int=1) -> int:
         headers={'Authorization': AUTH_TOKEN},
     )
     return response.status_code
-
-# status_code = get_status_code(date, page)
-# print(status_code)
