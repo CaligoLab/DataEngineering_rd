@@ -1,6 +1,7 @@
 import os
 import shutil
 
+
 def create_dir(date: str, dir_path: str) -> None:
     """Create/re-create directory"""
 

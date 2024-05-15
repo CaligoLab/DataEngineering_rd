@@ -15,12 +15,11 @@ class MainFunctionTestCase(TestCase):
         main.app.testing = True
         cls.client = main.app.test_client()
 
-
     @mock.patch('lesson_02.ht_template.job1.main.save_sales_to_local_disk')
     def test_return_400_date_param_missed(
             self,
             get_sales_mock: mock.MagicMock
-        ):
+    ):
         """
         Raise 400 HTTP code when no 'date' param
         """

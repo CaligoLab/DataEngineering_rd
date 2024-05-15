@@ -1,11 +1,7 @@
 import os
-import json
-from lesson_02.job1.dal import local_disk, sales_api
 from lesson_02.common_funcs import create_dir
-from lesson_02.constants import BASE_PATH
+from lesson_02.job1.dal import local_disk, sales_api
 
-# date = "2022-08-09"
-# RAW_DIR  = os.path.join(BASE_PATH, "lesson_02", "data", "raw", "sales", date)
 
 def save_sales_to_local_disk(date: str, raw_dir: str, data_type: str = "sales"):
     # TODO: implement me
@@ -30,6 +26,5 @@ def save_sales_to_local_disk(date: str, raw_dir: str, data_type: str = "sales"):
         status_code = sales_api.get_status_code(date, page)
 
     return {
-               "message": "Data retrieved successfully from API",
-           }, 201
-
+        "message": "Data retrieved successfully from API",
+    }, 201
