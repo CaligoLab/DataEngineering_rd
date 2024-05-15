@@ -21,7 +21,7 @@ def save_sales_to_local_disk(date: str, raw_dir: str, data_type: str = "sales") 
     page = 1
     status_code = sales_api.get_status_code(date, page)
     while status_code == 200:
-        file_path = f"{os.path.abspath(raw_dir)}/{data_type}_{date}_{page}.json"
+        file_path = f"{os.path.abspath(raw_dir)}\{data_type}_{date}_{page}.json"
         data = sales_api.get_sales(date, page)
 
         local_disk.save_to_disk(data, file_path)
