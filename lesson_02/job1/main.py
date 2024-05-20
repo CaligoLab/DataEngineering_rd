@@ -39,6 +39,7 @@ def main():
         input_data = save_sales_to_local_disk(date=date, raw_dir=raw_dir)
         return input_data
 
+    # input_data: dict = request.json
     # # TO DO: implement me
     # request.headers['Content-Type'] = 'application/json'
     # date = input_data.get('date')
