@@ -8,7 +8,8 @@
 Вивести кількість фільмів в кожній категорії.
 Результат відсортувати за спаданням.
 */
-SELECT c.name AS category_name, COUNT(fc.film_id) AS movie_count
+SELECT  c.name AS category_name
+        , COUNT(fc.film_id) AS movie_count
 FROM category c
 JOIN film_category fc ON c.category_id = fc.category_id
 GROUP BY c.name
@@ -20,7 +21,10 @@ ORDER BY movie_count DESC;
 Вивести 10 акторів, чиї фільми брали на прокат найбільше.
 Результат відсортувати за спаданням.
 */
-SELECT a.actor_id, a.first_name, a.last_name, COUNT(r.rental_id) AS rental_count
+SELECT  a.actor_id
+        , a.first_name
+        , a.last_name
+        , COUNT(r.rental_id) AS rental_count
 FROM actor a
 JOIN film_actor fa ON a.actor_id = fa.actor_id
 JOIN film f ON fa.film_id = f.film_id
@@ -37,7 +41,8 @@ LIMIT 10;
 Вивести категорія фільмів, на яку було витрачено найбільше грошей
 в прокаті
 */
-SELECT c.name AS category_name, SUM(p.amount) AS total_amount
+SELECT  c.name AS category_name
+        , SUM(p.amount) AS total_amount
 FROM category c
 JOIN film_category fc ON c.category_id = fc.category_id
 JOIN film f ON fc.film_id = f.film_id
@@ -63,7 +68,10 @@ WHERE i.film_id IS NULL;
 5.
 Вивести топ 3 актори, які найбільше зʼявлялись в категорії фільмів “Children”.
 */
-SELECT a.actor_id, a.first_name, a.last_name, COUNT(*) AS appearance_count
+SELECT  a.actor_id
+        , a.first_name
+        , a.last_name
+        , COUNT(*) AS appearance_count
 FROM actor a
 JOIN film_actor fa ON a.actor_id = fa.actor_id
 JOIN film f ON fa.film_id = f.film_id
