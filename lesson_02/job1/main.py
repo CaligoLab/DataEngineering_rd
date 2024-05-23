@@ -26,35 +26,31 @@ def main():
       "raw_dir": "/path/to/my_dir/raw/sales/2022-08-09"
     }
     """
-    if request.method == 'GET':
-        return render_template('index.html')
-    elif request.method == 'POST':
-        date: str = request.form.get('date')
-        if not date:
-            return {
-                "message": "date parameter missed",
-            }, 400
+    # if request.method == 'GET':
+    #     return render_template('index.html')
+    # elif request.method == 'POST':
+    #     date: str = request.form.get('date')
+    #     if not date:
+    #         return {
+    #             "message": "date parameter missed",
+    #         }, 400
+    #
+    #     raw_dir: str = os.path.join(BASE_PATH, "lesson_02", "data", "raw", "sales", date)
+    #     input_data = save_sales_to_local_disk(date=date, raw_dir=raw_dir)
+    #     return input_data
 
-        raw_dir: str = os.path.join(BASE_PATH, "lesson_02", "data", "raw", "sales", date)
-        input_data = save_sales_to_local_disk(date=date, raw_dir=raw_dir)
-        return input_data
-
-    # input_data: dict = request.json
-    # # TO DO: implement me
+    input_data: dict = request.json
+    # TO DO: implement me
     # request.headers['Content-Type'] = 'application/json'
-    # date = input_data.get('date')
-    # raw_dir = input_data.get('raw_dir')
-    # if not date:
-    #     return {
-    #         "message": "date parameter missed",
-    #     }, 400
-    #
-    # save_sales_to_local_disk(date=date, raw_dir=raw_dir)
-    #
-    # return {
-    #            "message": "Data retrieved successfully from API",
-    #        }, 201
+    date = input_data.get('date')
+    if not date:
+        return {
+            "message": "date parameter missed",
+        }, 400
+    raw_dir: str = os.path.join(BASE_PATH, "lesson_02", "data", "raw", "sales", date)
+    result = save_sales_to_local_disk(date=date, raw_dir=raw_dir)
 
+    return result
 
 if __name__ == "__main__":
     app.run(debug=True, host="localhost", port=8081)

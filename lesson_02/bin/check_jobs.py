@@ -3,7 +3,7 @@ import time
 import requests
 
 
-BASE_DIR = os.environ.get("BASE_DIR")
+BASE_DIR = os.environ.get("BASE_PATH")
 
 if not BASE_DIR:
     print("BASE_DIR environment variable must be set")
