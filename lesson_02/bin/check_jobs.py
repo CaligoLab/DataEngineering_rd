@@ -3,7 +3,7 @@ import time
 import requests
 
 
-BASE_DIR = os.environ.get("BASE_PATH")
+BASE_DIR = os.getenv("BASE_PATH")
 
 if not BASE_DIR:
     print("BASE_DIR environment variable must be set")
@@ -22,7 +22,7 @@ def run_job1():
         url=f'http://localhost:{JOB1_PORT}/',
         json={
             "date": "2022-08-09",
-            "raw_dir": RAW_DIR
+            "raw_dir": "lesson_02\\data\\raw\\sales"
         }
     )
     assert resp.status_code == 201
@@ -44,5 +44,5 @@ def run_job2():
 
 if __name__ == '__main__':
     run_job1()
-    time.sleep(3)
-    run_job2()
+    #time.sleep(3)
+   # run_job2()

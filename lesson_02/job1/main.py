@@ -13,7 +13,7 @@ if not AUTH_TOKEN:
 app = Flask(__name__)
 
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['POST'])
 def main():
     # -> flask_typing.ResponseReturnValue:
     """
@@ -43,12 +43,17 @@ def main():
     # TO DO: implement me
     # request.headers['Content-Type'] = 'application/json'
     date = input_data.get('date')
+    raw_dir = input_data.get('raw_dir')
     if not date:
         return {
             "message": "date parameter missed",
         }, 400
-    raw_dir: str = os.path.join(BASE_PATH, "lesson_02", "data", "raw", "sales", date)
-    result = save_sales_to_local_disk(date=date, raw_dir=raw_dir)
+    if not raw_dir:
+        return {
+            "message": "path parameter missed",
+        }, 400
+    full_path: str = os.path.join(BASE_PATH, raw_dir, date)
+    result = save_sales_to_local_disk(date=date, raw_dir=full_path)
 
     return result
 
