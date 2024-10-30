@@ -1,0 +1,2369 @@
+CustomerId,PurchaseDate,Product,Price
+46,2022-Aug-30,coffee machine,3300
+48,2022-Aug-30,Laptop,2642$
+74,2022-Aug-30,Laptop,2866
+131,2022-Aug-30,TV,1061
+143,2022-Aug-30,Microwave oven,600
+166,2022-Aug-30,Vacuum cleaner,415
+183,2022-Aug-30,Phone,731
+216,2022-Aug-30,Microwave oven,485
+241,2022-Aug-30,Laptop,1442
+244,2022-Aug-30,coffee machine,1928
+255,2022-Aug-30,TV,1483$
+288,2022-Aug-30,Microwave oven,104$
+291,2022-Aug-30,Laptop,799
+300,2022-Aug-30,Vacuum cleaner,608
+336,2022-Aug-30,coffee machine,1029
+360,2022-Aug-30,Microwave oven,243
+364,2022-Aug-30,Microwave oven,153
+365,2022-Aug-30,Microwave oven,154
+371,2022-Aug-30,TV,1063
+401,2022-Aug-30,coffee machine,3714USD
+411,2022/09/30,Microwave oven,544
+433,2022-Aug-30,Microwave oven,164
+486,2022-Aug-30,Laptop,2024
+524,2022-Aug-30,Laptop,3178
+526,2022-Aug-30,TV,1112$
+552,2022-Aug-30,Vacuum cleaner,757
+555,2022-Aug-30,coffee machine,4233$
+561,2022-Aug-30,Laptop,3295$
+577,2022-Aug-30,Phone,1150
+579,2022-Aug-30,coffee machine,1203$
+580,2022-Aug-30,coffee machine,747
+589,2022-Aug-30,Laptop,1620$
+602,2022-Aug-30,Phone,1037
+659,2022-Aug-30,TV,792
+675,2022-Aug-30,Phone,298$
+679,2022-Aug-30,Laptop,607
+692,2022-Aug-30,Phone,792
+722,2022-Aug-30,Microwave oven,564
+735,2022-Aug-30,Phone,863
+747,2022-Aug-30,Vacuum cleaner,770
+753,2022-Aug-30,Microwave oven,560
+771,2022-Aug-30,Vacuum cleaner,167$
+835,2022-Aug-30,Microwave oven,570$
+844,2022-Aug-30,Phone,1226$
+893,2022-Aug-30,Phone,1458$
+917,2022-Aug-30,Laptop,598
+943,2022-Aug-30,Phone,363
+948,2022-Aug-30,Laptop,2163
+952,2022-Aug-30,Laptop,1990
+957,2022-Aug-30,Vacuum cleaner,794
+958,2022-Aug-30,Laptop,1796$
+988,2022-Aug-30,Microwave oven,560
+995,2022-Aug-30,coffee machine,2210
+1011,2022-Aug-30,TV,1231
+1028,2022-Aug-30,Vacuum cleaner,92$
+1031,2022-Aug-30,coffee machine,2263
+1051,2022-Aug-30,TV,1487
+1058,2022-Aug-30,TV,1810$
+1082,2022-Aug-30,coffee machine,1292
+1101,2022-Aug-30,TV,864
+1111,2022-Aug-30,coffee machine,3021
+1139,2022-Aug-30,Vacuum cleaner,519$
+1143,2022-Aug-30,coffee machine,1790
+1173,2022-Aug-30,TV,2129
+1188,2022-Aug-30,Microwave oven,229
+1205,2022-Aug-30,Phone,246
+1205,2022-Aug-30,coffee machine,2828
+1227,2022-Aug-30,Vacuum cleaner,348
+1239,2022-Aug-30,TV,727$
+1241,2022-Aug-30,TV,1306
+1261,2022-Aug-30,coffee machine,483
+1291,2022-Aug-30,Laptop,1013
+1304,2022-Aug-30,Vacuum cleaner,551
+1350,2022-Aug-30,TV,1909
+1357,2022-Aug-30,Laptop,2676
+1359,2022-Aug-30,TV,522
+1360,2022-Aug-30,Laptop,1729
+1378,2022-Aug-30,coffee machine,4951USD
+1383,2022-Aug-30,Microwave oven,295
+1385,2022-Aug-30,Vacuum cleaner,323
+1391,2022-Aug-30,coffee machine,1321$
+1406,2022-Aug-30,Vacuum cleaner,617
+1407,2022-Aug-30,Laptop,2915
+1408,2022-Aug-30,Laptop,2288
+1421,2022-Aug-30,Phone,315
+1500,2022-Aug-30,Laptop,1208
+1574,2022-Aug-30,TV,1370
+1639,2022-Aug-30,TV,664$
+1656,2022-Aug-30,Laptop,1479
+1661,2022-Aug-30,TV,1080
+1682,2022-Aug-30,Laptop,2525
+1751,2022-Aug-30,Vacuum cleaner,129$
+1753,2022/09/30,Phone,898
+1763,2022-Aug-30,Vacuum cleaner,568
+1805,2022-Aug-30,Vacuum cleaner,615
+1846,2022-Aug-30,Vacuum cleaner,406$
+1858,2022-Aug-30,Vacuum cleaner,255
+1881,2022-Aug-30,coffee machine,1831
+1886,2022-Aug-30,Microwave oven,291
+1904,2022-Aug-30,coffee machine,3085
+1905,2022-Aug-30,Vacuum cleaner,621$
+1954,2022-Aug-30,Laptop,3206
+1957,2022-Aug-30,coffee machine,107
+1969,2022-Aug-30,Laptop,979
+1970,2022-Aug-30,Microwave oven,511$
+1986,2022-Aug-30,Microwave oven,129
+1997,2022-Aug-30,Laptop,1462
+2025,2022-Aug-30,Vacuum cleaner,727
+2032,2022-Aug-30,TV,1838
+2040,2022-Aug-30,Vacuum cleaner,408
+2051,2022-Aug-30,TV,2041
+2055,2022-Aug-30,TV,1769
+2061,2022-Aug-30,Microwave oven,213
+2101,2022-Aug-30,Microwave oven,219
+2123,2022-Aug-30,Vacuum cleaner,599
+2138,2022-Aug-30,Phone,583
+2144,2022-Aug-30,Vacuum cleaner,442
+2152,2022-Aug-30,Phone,981
+2167,2022-Aug-30,Vacuum cleaner,390
+2167,2022-Aug-30,TV,1930
+2177,2022-Aug-30,Phone,674
+2183,2022-Aug-30,Laptop,843
+2222,2022-Aug-30,Phone,522$
+2224,2022-Aug-30,Laptop,3029
+2245,2022-Aug-30,TV,1577
+2258,2022-Aug-30,Laptop,2076
+2279,2022-Aug-30,Microwave oven,401USD
+2298,2022-Aug-30,Laptop,1350
+2301,2022-Aug-30,TV,1617
+2343,2022-Aug-30,TV,2310$
+2349,2022-Aug-30,Phone,1115
+2351,2022-Aug-30,TV,1977
+2387,2022-Aug-30,Phone,1463
+2387,2022-Aug-30,Vacuum cleaner,217
+2400,2022-Aug-30,Microwave oven,340
+2405,2022-Aug-30,Microwave oven,353
+2408,2022-Aug-30,Laptop,852
+2438,2022-Aug-30,Laptop,595$
+2457,2022-Aug-30,Laptop,1474
+2468,2022-Aug-30,Microwave oven,495
+2510,2022-Aug-30,Phone,256
+2524,2022-Aug-30,Phone,1074
+2545,2022-Aug-30,Microwave oven,470
+2546,2022-Aug-30,TV,1087$
+2547,2022-Aug-30,Phone,361
+2548,2022-Aug-30,coffee machine,3406$
+2556,2022-Aug-30,Microwave oven,127
+2578,2022-Aug-30,TV,1072
+2583,2022-Aug-30,Microwave oven,530
+2595,2022-Aug-30,Microwave oven,236$
+2635,2022-Aug-30,Laptop,2931
+2642,2022-Aug-30,Laptop,3478
+2654,2022-Aug-30,Phone,1100
+2664,2022-Aug-30,coffee machine,4410
+2670,2022-Aug-30,Laptop,1296
+2707,2022-Aug-30,Phone,487$
+2725,2022-Aug-30,Laptop,3412
+2763,2022-Aug-30,Laptop,3421
+2773,2022-Aug-30,TV,1024
+2787,2022-Aug-30,TV,1701
+2805,2022-Aug-30,Laptop,3139$
+2808,2022-Aug-30,TV,1543$
+2818,2022-Aug-30,Phone,981
+2841,2022-Aug-30,coffee machine,3248
+2864,2022-Aug-30,Laptop,805$
+2881,2022-Aug-30,Laptop,2142$
+2894,2022-Aug-30,coffee machine,4925
+2902,2022-Aug-30,Vacuum cleaner,473
+2906,2022-Aug-30,TV,653$
+2917,2022-Aug-30,Microwave oven,343$
+3031,2022-Aug-30,coffee machine,1704$
+3036,2022-Aug-30,Laptop,3105
+3051,2022-Aug-30,Phone,943
+3053,2022-Aug-30,Phone,675
+3059,2022-Aug-30,TV,729
+3073,2022-Aug-30,Microwave oven,254
+3083,2022-Aug-30,Microwave oven,394$
+3090,2022-Aug-30,TV,2242$
+3147,2022-Aug-30,TV,1638
+3161,2022-Aug-30,Phone,1128
+3170,2022-Aug-30,Laptop,1050
+3170,2022-Aug-30,Laptop,1792$
+3210,2022-Aug-30,Laptop,1005$
+3212,2022-Aug-30,Vacuum cleaner,509
+3230,2022-Aug-30,Phone,467
+3246,2022-Aug-30,TV,1568
+3267,2022-Aug-30,Phone,1347
+3306,2022-Aug-30,Microwave oven,426
+3315,2022-Aug-30,TV,2372
+3360,2022-Aug-30,Microwave oven,558
+3361,2022-Aug-30,TV,1999
+3376,2022-Aug-30,Phone,684
+3410,2022-Aug-30,coffee machine,4061
+3418,2022-Aug-30,Laptop,1289
+3418,2022-Aug-30,Laptop,1624
+3431,2022-Aug-30,Phone,244
+3449,2022-Aug-30,TV,1315
+3452,2022-Aug-30,Laptop,2591
+3456,2022-Aug-30,Microwave oven,287$
+3500,2022-Aug-30,coffee machine,1860$
+3537,2022-Aug-30,coffee machine,184
+3576,2022-Aug-30,coffee machine,1462$
+3623,2022-Aug-30,coffee machine,2682
+3633,2022-Aug-30,Vacuum cleaner,459
+3679,2022-Aug-30,Phone,1205
+3703,2022-Aug-30,Laptop,552
+3704,2022-Aug-30,Laptop,2455
+3784,2022-Aug-30,Phone,912
+3842,2022-Aug-30,Microwave oven,354$
+3847,2022-Aug-30,Laptop,3238
+3868,2022-Aug-30,Microwave oven,372
+3872,2022-Aug-30,TV,1464
+3904,2022-Aug-30,Phone,376
+3920,2022-Aug-30,TV,1904$
+3922,2022-Aug-30,TV,2144
+3922,2022-Aug-30,TV,2124
+3969,2022-Aug-30,coffee machine,2998
+3984,2022-Aug-30,Laptop,3190
+3989,2022-Aug-30,Microwave oven,234
+3994,2022-Aug-30,coffee machine,566
+4030,2022-Aug-30,TV,1311
+4034,2022-Aug-30,Laptop,2129
+4048,2022-Aug-30,coffee machine,1579
+4059,2022-Aug-30,Vacuum cleaner,468
+4067,2022-Aug-30,TV,2187
+4099,2022-Aug-30,Phone,904
+4153,2022-Aug-30,Vacuum cleaner,646
+4165,2022-Aug-30,Phone,904
+4165,2022-Aug-30,coffee machine,4293
+4168,2022-Aug-30,Laptop,1359
+4194,2022-Aug-30,Laptop,2302$
+4207,2022-Aug-30,Laptop,1714
+4212,2022-Aug-30,Microwave oven,592
+4217,2022-Aug-30,coffee machine,481
+4227,2022-Aug-30,Phone,536$
+4242,2022-Aug-30,Laptop,616
+4261,2022-Aug-30,Vacuum cleaner,100
+4272,2022-Aug-30,Vacuum cleaner,518$
+4274,2022-Aug-30,Laptop,592$
+4278,2022-Aug-30,Vacuum cleaner,582
+4290,2022-Aug-30,Microwave oven,169
+4295,2022-Aug-30,coffee machine,3393
+4330,2022-Aug-30,TV,2074
+4353,2022-Aug-30,Microwave oven,338
+4369,2022-Aug-30,Laptop,1950$
+4387,2022-Aug-30,coffee machine,1699
+4392,2022-Aug-30,Phone,1101
+4396,2022-Aug-30,Vacuum cleaner,545$
+4396,2022-Aug-30,Laptop,3206
+4423,2022-Aug-30,TV,2104
+4426,2022-Aug-30,TV,685
+4451,2022-Aug-30,Microwave oven,548
+4472,2022-Aug-30,Laptop,645
+4484,2022-Aug-30,Microwave oven,459
+4538,2022-Aug-30,Microwave oven,461$
+4606,2022-Aug-30,Laptop,3348$
+4606,2022-Aug-30,Phone,455
+4626,2022-Aug-30,Phone,1036
+4663,2022-Aug-30,Phone,461$
+4664,2022-Aug-30,Microwave oven,391
+4676,2022-Aug-30,Phone,1036$
+4762,2022-Aug-30,TV,1804
+4794,2022-Aug-30,Phone,842
+4807,2022-Aug-30,coffee machine,587$
+4823,2022-Aug-30,Laptop,976
+4842,2022-Aug-30,coffee machine,4727
+4874,2022-Aug-30,Laptop,2408
+4921,2022-Aug-30,Laptop,1906
+4953,2022-Aug-30,Microwave oven,240
+4955,2022-Aug-30,Laptop,1617
+4979,2022-Aug-30,Laptop,757
+4990,2022-Aug-30,coffee machine,710
+5007,2022-Aug-30,Phone,1242
+5045,2022-Aug-30,TV,1518
+5062,2022-Aug-30,Microwave oven,531
+5128,2022-Aug-30,Laptop,736
+5134,2022-Aug-30,coffee machine,3160$
+5146,2022-Aug-30,Vacuum cleaner,90$
+5160,2022-Aug-30,Laptop,1106$
+5178,2022-Aug-30,Microwave oven,284
+5202,2022-Aug-30,Laptop,1452
+5225,2022-Aug-30,coffee machine,604
+5246,2022-Aug-30,TV,930
+5257,2022-Aug-30,TV,535
+5296,2022-Aug-30,TV,629
+5313,2022-Aug-30,coffee machine,4713
+5317,2022-Aug-30,Vacuum cleaner,353
+5356,2022-Aug-30,coffee machine,1935
+5365,2022-Aug-30,Phone,920$
+5424,2022-Aug-30,Microwave oven,476$
+5483,2022-Aug-30,Microwave oven,296
+5483,2022-Aug-30,Vacuum cleaner,348$
+5489,2022-Aug-30,Microwave oven,509
+5533,2022-Aug-30,Phone,151$
+5536,2022-Aug-30,coffee machine,1147
+5542,2022-Aug-30,Laptop,2806
+5594,2022-Aug-30,Laptop,2015
+5616,2022-Aug-30,Microwave oven,220$
+5637,2022-Aug-30,coffee machine,2096$
+5678,2022-Aug-30,coffee machine,3666$
+5685,2022-Aug-30,Vacuum cleaner,692
+5699,2022-Aug-30,Microwave oven,440
+5700,2022-Aug-30,Laptop,854
+5717,2022-Aug-30,Vacuum cleaner,393
+5731,2022-Aug-30,Microwave oven,473
+5753,2022-Aug-30,TV,1456
+5777,2022-Aug-30,coffee machine,4170
+5814,2022-Aug-30,coffee machine,4846
+5819,2022-Aug-30,coffee machine,3587
+5825,2022-Aug-30,Phone,1133
+5842,2022-Aug-30,coffee machine,1440
+5852,2022-Aug-30,Laptop,1190
+5864,2022-Aug-30,coffee machine,708
+5889,2022-Aug-30,Vacuum cleaner,258
+5891,2022-Aug-30,coffee machine,3223$
+5927,2022-Aug-30,Microwave oven,133
+5954,2022-Aug-30,Laptop,1803
+5965,2022-Aug-30,Microwave oven,492$
+5984,2022-Aug-30,Microwave oven,210
+5993,2022-Aug-30,Phone,1466
+6018,2022-Aug-30,Laptop,1896
+6034,2022-Aug-30,TV,834
+6053,2022-Aug-30,Phone,692$
+6105,2022-Aug-30,Phone,206
+6155,2022-Aug-30,coffee machine,3784
+6162,2022-Aug-30,Microwave oven,418
+6233,2022-Aug-30,Microwave oven,539$
+6274,2022-Aug-30,Microwave oven,277
+6280,2022-Aug-30,Vacuum cleaner,773
+6290,2022-Aug-30,coffee machine,2299
+6354,2022-Aug-30,Phone,878
+6356,2022-Aug-30,Vacuum cleaner,341
+6454,2022-Aug-30,Vacuum cleaner,773
+6462,2022-Aug-30,Vacuum cleaner,225
+6493,2022-Aug-30,Vacuum cleaner,481
+6519,2022-Aug-30,Vacuum cleaner,662
+6590,2022-Aug-30,Laptop,1391$
+6595,2022-Aug-30,TV,2327
+6633,2022-Aug-30,Laptop,1579
+6664,2022-Aug-30,TV,2375
+6665,2022-Aug-30,Microwave oven,361$
+6705,2022-Aug-30,coffee machine,4106$
+6742,2022-Aug-30,Vacuum cleaner,700
+6773,2022-Aug-30,Microwave oven,511
+6785,2022-Aug-30,Microwave oven,495
+6793,2022-Aug-30,Phone,837$
+6798,2022-Aug-30,Vacuum cleaner,513
+6800,2022-Aug-30,TV,1114
+6802,2022-Aug-30,Laptop,1645
+6807,2022-Aug-30,Phone,200
+6859,2022-Aug-30,coffee machine,4746
+6868,2022-Aug-30,Phone,587
+6880,2022-Aug-30,Microwave oven,532
+6925,2022-Aug-30,Vacuum cleaner,707
+6994,2022-Aug-30,Laptop,3388
+6997,2022-Aug-30,Microwave oven,138
+7031,2022-Aug-30,Microwave oven,147
+7040,2022-Aug-30,coffee machine,182
+7094,2022-Aug-30,TV,2475
+7099,2022-Aug-30,Laptop,3180
+7129,2022-Aug-30,Vacuum cleaner,81
+7140,2022-Aug-30,Vacuum cleaner,601$
+7141,2022-Aug-30,Laptop,3384
+7159,2022-Aug-30,TV,1070
+7178,2022-Aug-30,Phone,948
+7183,2022-Aug-30,Phone,503
+7200,2022-Aug-30,Phone,1436
+7218,2022-Aug-30,Phone,822
+7220,2022-Aug-30,Laptop,2425
+7224,2022-Aug-30,Phone,1188
+7229,2022-Aug-30,Phone,1169
+7251,2022-Aug-30,Vacuum cleaner,767
+7255,2022-Aug-30,Vacuum cleaner,525
+7264,2022-Aug-30,coffee machine,1542
+7327,2022-Aug-30,Vacuum cleaner,762
+7361,2022-Aug-30,coffee machine,2257
+7374,2022-Aug-30,Vacuum cleaner,178
+7385,2022-Aug-30,TV,795
+7421,2022-Aug-30,Phone,1091
+7421,2022-Aug-30,Microwave oven,551$
+7439,2022-Aug-30,TV,1626
+7620,2022-Aug-30,TV,756
+7714,2022-Aug-30,TV,622
+7719,2022-Aug-30,Laptop,686$
+7785,2022-Aug-30,Phone,907$
+7809,2022-Aug-30,Phone,1382$
+7819,2022-Aug-30,Microwave oven,317
+7882,2022-Aug-30,Microwave oven,536
+7891,2022-Aug-30,coffee machine,2374
+7931,2022-Aug-30,coffee machine,250
+7961,2022-Aug-30,Vacuum cleaner,285$
+8001,2022-Aug-30,Vacuum cleaner,280$
+8002,2022-Aug-30,Phone,775
+8019,2022-Aug-30,Laptop,2054
+8029,2022-Aug-30,Phone,1081
+8055,2022-Aug-30,coffee machine,2153
+8066,2022-Aug-30,coffee machine,3376
+8114,2022-Aug-30,Vacuum cleaner,739$
+8130,2022-Aug-30,Phone,635
+8135,2022-Aug-30,TV,689
+8159,2022-Aug-30,TV,2439
+8206,2022-Aug-30,Laptop,2264$
+8218,2022-Aug-30,Laptop,2066
+8237,2022-Aug-30,Laptop,1740$
+8247,2022-Aug-30,Vacuum cleaner,561
+8271,2022-Aug-30,Vacuum cleaner,118
+8298,2022-Aug-30,Laptop,1870$
+8302,2022-Aug-30,Laptop,3160
+8307,2022-Aug-30,Phone,592$
+8347,2022-Aug-30,TV,1794
+8351,2022-Aug-30,coffee machine,4614
+8354,2022-Aug-30,TV,1430
+8358,2022-Aug-30,coffee machine,4208
+8384,2022-Aug-30,Microwave oven,541$
+8408,2022-Aug-30,Vacuum cleaner,405$
+8410,2022-Aug-30,Vacuum cleaner,335
+8421,2022-Aug-30,Microwave oven,353
+8428,2022-Aug-30,TV,2010
+8447,2022-Aug-30,Microwave oven,316
+8447,2022-Aug-30,Laptop,1520
+8495,2022-Aug-30,TV,2269
+8518,2022-Aug-30,Vacuum cleaner,775
+8526,2022-Aug-30,coffee machine,774$
+8527,2022-Aug-30,coffee machine,543
+8578,2022-Aug-30,coffee machine,2454
+8580,2022-Aug-30,TV,982$
+8616,2022-Aug-30,TV,1445$
+8656,2022-Aug-30,TV,2058
+8660,2022-Aug-30,Laptop,2535
+8675,2022-Aug-30,TV,2337
+8687,2022-Aug-30,Microwave oven,214
+8694,2022-Aug-30,coffee machine,4313
+8696,2022-Aug-30,Laptop,1322$
+8708,2022-Aug-30,TV,952
+8715,2022-Aug-30,TV,616
+8753,2022-Aug-30,TV,1026
+8769,2022-Aug-30,Phone,256
+8787,2022-Aug-30,Phone,612
+8810,2022-Aug-30,coffee machine,1397$
+8815,2022-Aug-30,TV,1211
+8829,2022-Aug-30,Phone,520
+8836,2022-Aug-30,TV,906$
+8848,2022-Aug-30,coffee machine,1004$
+8876,2022-Aug-30,Phone,872$
+8894,2022-Aug-30,Phone,1298
+8920,2022-Aug-30,Vacuum cleaner,330
+8921,2022-Aug-30,TV,1326
+8947,2022-Aug-30,Vacuum cleaner,323
+8975,2022-Aug-30,Microwave oven,578
+9001,2022-Aug-30,Vacuum cleaner,257
+9041,2022-Aug-30,Laptop,1840
+9059,2022-Aug-30,Laptop,1620
+9061,2022-Aug-30,coffee machine,3721$
+9116,2022-Aug-30,Phone,1382$
+9138,2022-Aug-30,coffee machine,4211
+9160,2022-Aug-30,Phone,1018$
+9176,2022-Aug-30,coffee machine,1798$
+9199,2022-Aug-30,Laptop,3154
+9252,2022-Aug-30,Phone,674
+9258,2022-Aug-30,Vacuum cleaner,532
+9275,2022-Aug-30,Microwave oven,439
+9289,2022-Aug-30,Laptop,2065
+9295,2022-Aug-30,Microwave oven,326$
+9297,2022-Aug-30,Phone,251
+9322,2022-Aug-30,TV,2026
+9333,2022-Aug-30,Vacuum cleaner,346
+9343,2022-Aug-30,TV,2027
+9363,2022-Aug-30,Vacuum cleaner,210
+9432,2022-Aug-30,coffee machine,2081
+9463,2022-Aug-30,Vacuum cleaner,393
+9485,2022-Aug-30,TV,2170
+9501,2022-Aug-30,TV,941
+9511,2022-Aug-30,TV,1629
+9520,2022-Aug-30,Vacuum cleaner,492
+9561,2022-Aug-30,TV,605
+9624,2022-Aug-30,Phone,328
+9631,2022-Aug-30,Microwave oven,574
+9677,2022-Aug-30,Laptop,3312
+9699,2022-Aug-30,coffee machine,1397
+9700,2022-Aug-30,TV,2234
+9711,2022-Aug-30,Laptop,2271
+9713,2022-Aug-30,Vacuum cleaner,744
+9723,2022-Aug-30,Vacuum cleaner,430
+9727,2022-Aug-30,coffee machine,2868
+9728,2022-Aug-30,coffee machine,2460$
+9734,2022-Aug-30,TV,1065
+9810,2022-Aug-30,Microwave oven,471
+9814,2022-Aug-30,Vacuum cleaner,786
+9822,2022-Aug-30,TV,2286
+9825,2022-Aug-30,Vacuum cleaner,416$
+9837,2022-Aug-30,Vacuum cleaner,435$
+9843,2022-Aug-30,TV,690
+9852,2022-Aug-30,Microwave oven,400
+9876,2022-Aug-30,TV,1568
+9929,2022-Aug-30,Phone,361
+9934,2022-Aug-30,Laptop,2211
+9935,2022-Aug-30,Phone,551
+9961,2022-Aug-30,Microwave oven,559
+10029,2022-Aug-30,TV,1579
+10160,2022-Aug-30,Microwave oven,482
+10169,2022-Aug-30,Laptop,2908
+10192,2022-Aug-30,Laptop,3260
+10195,2022-Aug-30,TV,2117
+10214,2022-Aug-30,Phone,1057$
+10225,2022-Aug-30,Microwave oven,427
+10228,2022-Aug-30,coffee machine,3701
+10234,2022-Aug-30,Vacuum cleaner,361
+10290,2022-Aug-30,Vacuum cleaner,352
+10299,2022-Aug-30,Microwave oven,223
+10321,2022-Aug-30,Laptop,703$
+10323,2022-Aug-30,Microwave oven,581
+10331,2022-Aug-30,Laptop,956
+10383,2022-Aug-30,Laptop,767
+10392,2022-Aug-30,Laptop,2460
+10412,2022-Aug-30,coffee machine,4404$
+10414,2022-Aug-30,coffee machine,2060
+10483,2022-Aug-30,Laptop,1473
+10491,2022-Aug-30,Laptop,2680
+10511,2022-Aug-30,Phone,291
+10557,2022-Aug-30,Microwave oven,308
+10559,2022-Aug-30,Phone,236
+10607,2022-Aug-30,Laptop,3039
+10614,2022-Aug-30,coffee machine,4280
+10631,2022-Aug-30,coffee machine,4310
+10645,2022-Aug-30,TV,1021
+10645,2022-Aug-30,Microwave oven,255
+10646,2022-Aug-30,Phone,543
+10647,2022-Aug-30,coffee machine,2313
+10661,2022-Aug-30,Vacuum cleaner,780
+10664,2022-Aug-30,Microwave oven,287$
+10666,2022-Aug-30,Vacuum cleaner,218
+10674,2022-Aug-30,Vacuum cleaner,663
+10688,2022-Aug-30,coffee machine,1124
+10725,2022-Aug-30,Microwave oven,543
+10802,2022-Aug-30,Phone,380
+10806,2022-Aug-30,Microwave oven,537$
+10846,2022-Aug-30,Microwave oven,450
+10862,2022-Aug-30,Microwave oven,230$
+10863,2022-Aug-30,coffee machine,1355
+10866,2022-Aug-30,Laptop,3154$
+10883,2022-Aug-30,Laptop,1284
+10896,2022-Aug-30,Microwave oven,394$
+10940,2022-Aug-30,coffee machine,4993
+10954,2022-Aug-30,Phone,1122
+10964,2022-Aug-30,Microwave oven,546
+10984,2022-Aug-30,Vacuum cleaner,790
+10997,2022-Aug-30,Vacuum cleaner,515
+11029,2022-Aug-30,Laptop,921$
+11038,2022-Aug-30,Laptop,1473
+11060,2022-Aug-30,Laptop,2978$
+11085,2022-Aug-30,Microwave oven,583$
+11092,2022-Aug-30,TV,744
+11108,2022-Aug-30,coffee machine,312
+11112,2022-Aug-30,TV,2346
+11163,2022-Aug-30,Laptop,3189
+11169,2022-Aug-30,TV,2005
+11209,2022-Aug-30,Vacuum cleaner,153
+11219,2022-Aug-30,Vacuum cleaner,254
+11231,2022-Aug-30,Phone,1423
+11254,2022-Aug-30,Microwave oven,252
+11267,2022-Aug-30,TV,681
+11307,2022-Aug-30,Vacuum cleaner,133
+11325,2022-Aug-30,TV,603
+11326,2022-Aug-30,TV,1620$
+11427,2022-Aug-30,Microwave oven,387
+11440,2022-Aug-30,Laptop,2151
+11446,2022-Aug-30,Laptop,2837
+11462,2022-Aug-30,TV,2434$
+11479,2022-Aug-30,Microwave oven,283
+11508,2022-Aug-30,coffee machine,2565$
+11511,2022-Aug-30,Laptop,1859$
+11518,2022-Aug-30,Phone,1330
+11519,2022-Aug-30,TV,691
+11525,2022-Aug-30,Laptop,2214
+11551,2022-Aug-30,coffee machine,4043
+11567,2022-Aug-30,Laptop,3435
+11598,2022-Aug-30,Vacuum cleaner,292
+11603,2022-Aug-30,Phone,977
+11629,2022-Aug-30,Microwave oven,260
+11636,2022-Aug-30,Phone,592
+11641,2022-Aug-30,TV,2431
+11646,2022-Aug-30,Vacuum cleaner,735
+11685,2022-Aug-30,coffee machine,1198
+11692,2022-Aug-30,Phone,930
+11701,2022-Aug-30,Vacuum cleaner,455
+11702,2022-Aug-30,Microwave oven,600
+11715,2022-Aug-30,Vacuum cleaner,704$
+11789,2022-Aug-30,Microwave oven,175
+11806,2022-Aug-30,Microwave oven,142
+11843,2022-Aug-30,Microwave oven,420
+11874,2022-Aug-30,Microwave oven,126
+11889,2022-Aug-30,Phone,1298
+11915,2022-Aug-30,Laptop,3131
+11997,2022-Aug-30,Laptop,1448
+11997,2022-Aug-30,TV,1136
+12035,2022-Aug-30,Phone,593$
+12046,2022-Aug-30,Phone,775
+12061,2022-Aug-30,Phone,1326
+12066,2022-Aug-30,Laptop,2250
+12085,2022-Aug-30,Laptop,2578
+12097,2022-Aug-30,Laptop,2456
+12098,2022-Aug-30,Laptop,3410
+12102,2022-Aug-30,Vacuum cleaner,783
+12130,2022-Aug-30,TV,1244
+12142,2022-Aug-30,TV,1505
+12145,2022-Aug-30,Laptop,1625
+12171,2022-Aug-30,Vacuum cleaner,687$
+12189,2022-Aug-30,Phone,277$
+12211,2022-Aug-30,coffee machine,3981
+12231,2022-Aug-30,coffee machine,3303$
+12283,2022-Aug-30,Microwave oven,299
+12328,2022-Aug-30,TV,1995
+12363,2022-Aug-30,Microwave oven,599$
+12365,2022-Aug-30,Phone,1325
+12385,2022-Aug-30,coffee machine,4255
+12406,2022-Aug-30,coffee machine,3107$
+12407,2022-Aug-30,Phone,1162
+12416,2022-Aug-30,Microwave oven,550$
+12453,2022-Aug-30,Phone,1049
+12459,2022-Aug-30,Vacuum cleaner,517
+12460,2022-Aug-30,Microwave oven,411
+12461,2022-Aug-30,coffee machine,2771
+12490,2022-Aug-30,Phone,1484
+12521,2022-Aug-30,Phone,586$
+12546,2022-Aug-30,Phone,1349$
+12571,2022-Aug-30,Vacuum cleaner,435
+12638,2022-Aug-30,Laptop,1638
+12657,2022-Aug-30,Laptop,2392
+12666,2022-Aug-30,Laptop,1555
+12688,2022-Aug-30,Laptop,1925
+12693,2022-Aug-30,Phone,481
+12697,2022-Aug-30,Laptop,2123$
+12698,2022-Aug-30,coffee machine,2848
+12702,2022-Aug-30,coffee machine,3439
+12720,2022-Aug-30,Microwave oven,162
+12723,2022-Aug-30,TV,546
+12739,2022-Aug-30,coffee machine,2721
+12766,2022-Aug-30,TV,1323$
+12834,2022-Aug-30,Laptop,2194
+12868,2022-Aug-30,Vacuum cleaner,773
+12880,2022-Aug-30,Phone,298
+12882,2022-Aug-30,coffee machine,2652
+12886,2022-Aug-30,Laptop,654
+12897,2022-Aug-30,Vacuum cleaner,466$
+12902,2022-Aug-30,coffee machine,1689$
+12903,2022-Aug-30,coffee machine,4337
+12920,2022-Aug-30,coffee machine,2305$
+12925,2022-Aug-30,Laptop,1700
+12956,2022-Aug-30,TV,1697
+12999,2022-Aug-30,TV,1481$
+13024,2022-Aug-30,coffee machine,4421
+13049,2022-Aug-30,Vacuum cleaner,247
+13083,2022-Aug-30,Phone,662$
+13089,2022-Aug-30,Vacuum cleaner,341
+13148,2022-Aug-30,coffee machine,3313
+13153,2022-Aug-30,Laptop,3308
+13183,2022-Aug-30,TV,978$
+13228,2022-Aug-30,coffee machine,357$
+13248,2022-Aug-30,TV,855
+13251,2022-Aug-30,coffee machine,4212$
+13256,2022-Aug-30,coffee machine,524
+13264,2022-Aug-30,coffee machine,2204
+13285,2022-Aug-30,Vacuum cleaner,493
+13329,2022-Aug-30,Phone,1096
+13330,2022-Aug-30,TV,2035
+13392,2022-Aug-30,Vacuum cleaner,603
+13397,2022-Aug-30,Microwave oven,161
+13429,2022-Aug-30,coffee machine,119
+13465,2022-Aug-30,Phone,570
+13473,2022-Aug-30,coffee machine,610
+13533,2022-Aug-30,TV,1737$
+13550,2022-Aug-30,coffee machine,4565
+13556,2022-Aug-30,Microwave oven,196
+13576,2022-Aug-30,Laptop,2719$
+13609,2022-Aug-30,Vacuum cleaner,196
+13642,2022-Aug-30,Microwave oven,453
+13672,2022-Aug-30,Laptop,2065$
+13681,2022-Aug-30,Vacuum cleaner,475
+13694,2022-Aug-30,Laptop,1479
+13697,2022-Aug-30,TV,1357$
+13725,2022-Aug-30,Phone,768$
+13725,2022-Aug-30,Microwave oven,258
+13749,2022-Aug-30,coffee machine,4687
+13766,2022-Aug-30,Phone,1071
+13811,2022-Aug-30,Microwave oven,486$
+13816,2022-Aug-30,TV,1217
+13828,2022-Aug-30,Phone,845$
+13857,2022-Aug-30,Vacuum cleaner,436
+13861,2022-Aug-30,coffee machine,322
+13865,2022-Aug-30,Vacuum cleaner,800
+13893,2022-Aug-30,TV,905
+13901,2022-Aug-30,TV,1526
+13908,2022-Aug-30,coffee machine,4377$
+13914,2022-Aug-30,Microwave oven,153
+13943,2022-Aug-30,Phone,1113
+13955,2022-Aug-30,Laptop,3122$
+13968,2022-Aug-30,Microwave oven,579
+13992,2022-Aug-30,coffee machine,4942$
+14012,2022-Aug-30,TV,663
+14058,2022-Aug-30,TV,1382
+14070,2022-Aug-30,Phone,1434
+14075,2022-Aug-30,Laptop,1970
+14097,2022-Aug-30,coffee machine,975
+14111,2022-Aug-30,Vacuum cleaner,534
+14127,2022-Aug-30,coffee machine,3855
+14192,2022-Aug-30,Vacuum cleaner,206
+14215,2022-Aug-30,coffee machine,3426
+14272,2022-Aug-30,Vacuum cleaner,481
+14323,2022-Aug-30,TV,2151$
+14330,2022-Aug-30,Vacuum cleaner,611
+14349,2022-Aug-30,Vacuum cleaner,411$
+14360,2022-Aug-30,Microwave oven,541
+14396,2022-Aug-30,Microwave oven,131
+14400,2022-Aug-30,Microwave oven,599
+14407,2022-Aug-30,Microwave oven,473
+14425,2022-Aug-30,Laptop,2170
+14454,2022-Aug-30,Phone,276
+14501,2022-Aug-30,coffee machine,1267
+14535,2022-Aug-30,coffee machine,1312
+14544,2022-Aug-30,Laptop,1752
+14632,2022-Aug-30,Microwave oven,138
+14634,2022-Aug-30,TV,1492
+14655,2022-Aug-30,Laptop,2403
+14664,2022-Aug-30,Laptop,1979$
+14700,2022-Aug-30,coffee machine,631$
+14701,2022-Aug-30,TV,2244
+14718,2022-Aug-30,Laptop,3346
+14750,2022-Aug-30,TV,1583
+14762,2022-Aug-30,Microwave oven,357
+14793,2022-Aug-30,TV,2339
+14826,2022-Aug-30,Laptop,1013$
+14841,2022-Aug-30,Laptop,3441
+14858,2022-Aug-30,Microwave oven,324
+14873,2022-Aug-30,Laptop,2540
+14874,2022-Aug-30,coffee machine,4758
+14885,2022-Aug-30,TV,817
+14891,2022-Aug-30,TV,743
+14908,2022-Aug-30,coffee machine,2823
+14914,2022-Aug-30,Phone,1231
+14915,2022-Aug-30,coffee machine,2776
+14915,2022-Aug-30,Vacuum cleaner,788
+14963,2022-Aug-30,Vacuum cleaner,150$
+15001,2022-Aug-30,coffee machine,4035$
+15014,2022-Aug-30,Microwave oven,306
+15017,2022-Aug-30,Microwave oven,189$
+15026,2022-Aug-30,Phone,254
+15029,2022-Aug-30,Laptop,2080
+15055,2022-Aug-30,Microwave oven,557
+15061,2022-Aug-30,Phone,1216
+15062,2022-Aug-30,Phone,705$
+15069,2022-Aug-30,Laptop,1621
+15087,2022-Aug-30,Microwave oven,478
+15119,2022-Aug-30,Phone,1037
+15133,2022-Aug-30,Laptop,1113
+15163,2022-Aug-30,Phone,935
+15181,2022-Aug-30,coffee machine,4112
+15262,2022-Aug-30,TV,1670$
+15319,2022-Aug-30,coffee machine,3593
+15330,2022-Aug-30,Phone,471
+15333,2022-Aug-30,TV,509
+15339,2022-Aug-30,coffee machine,4006
+15354,2022-Aug-30,Vacuum cleaner,93
+15383,2022-Aug-30,Vacuum cleaner,570$
+15388,2022-Aug-30,Phone,1196
+15425,2022-Aug-30,TV,835
+15511,2022-Aug-30,Laptop,2934
+15518,2022-Aug-30,TV,1595$
+15536,2022-Aug-30,Vacuum cleaner,500
+15627,2022-Aug-30,Laptop,1288$
+15653,2022-Aug-30,coffee machine,4186
+15664,2022-Aug-30,Laptop,1617
+15679,2022-Aug-30,TV,2304
+15687,2022-Aug-30,coffee machine,2545
+15697,2022-Aug-30,Laptop,2235
+15758,2022-Aug-30,TV,1386
+15767,2022-Aug-30,Microwave oven,326
+15768,2022-Aug-30,Laptop,807
+15768,2022-Aug-30,TV,665$
+15809,2022-Aug-30,TV,2061
+15846,2022-Aug-30,Phone,1181
+15846,2022-Aug-30,Phone,168$
+15863,2022-Aug-30,Laptop,668
+15879,2022-Aug-30,TV,1629
+15923,2022-Aug-30,Microwave oven,157
+15931,2022-Aug-30,coffee machine,3796
+15993,2022-Aug-30,Microwave oven,502
+16000,2022-Aug-30,coffee machine,3818
+16005,2022-Aug-30,coffee machine,1912$
+16030,2022-Aug-30,TV,1482
+16054,2022-Aug-30,Vacuum cleaner,149
+16078,2022-Aug-30,Phone,498
+16102,2022-Aug-30,TV,2071
+16109,2022-Aug-30,Microwave oven,277$
+16144,2022-Aug-30,Microwave oven,446
+16186,2022-Aug-30,Microwave oven,142
+16199,2022-Aug-30,Laptop,1250
+16230,2022-Aug-30,Vacuum cleaner,775
+16275,2022-Aug-30,Vacuum cleaner,707
+16292,2022-Aug-30,Vacuum cleaner,661
+16305,2022-Aug-30,Vacuum cleaner,252
+16308,2022-Aug-30,Vacuum cleaner,525
+16320,2022-Aug-30,Microwave oven,498
+16334,2022-Aug-30,Laptop,2862$
+16380,2022-Aug-30,TV,2434
+16389,2022-Aug-30,Vacuum cleaner,389
+16400,2022-Aug-30,TV,1587
+16404,2022-Aug-30,coffee machine,3196
+16409,2022-Aug-30,Vacuum cleaner,311$
+16421,2022-Aug-30,coffee machine,896
+16442,2022-Aug-30,Phone,833$
+16444,2022-Aug-30,Vacuum cleaner,586
+16447,2022-Aug-30,Vacuum cleaner,317
+16473,2022-Aug-30,coffee machine,3974$
+16477,2022-Aug-30,Phone,874$
+16480,2022-Aug-30,TV,879
+16480,2022-Aug-30,Microwave oven,208
+16493,2022-Aug-30,coffee machine,4033
+16527,2022-Aug-30,Phone,1076
+16528,2022-Aug-30,TV,2210
+16531,2022-Aug-30,Phone,542
+16580,2022-Aug-30,TV,2123
+16593,2022-Aug-30,Microwave oven,443
+16651,2022-Aug-30,Laptop,739
+16653,2022-Aug-30,TV,1265
+16672,2022-Aug-30,Laptop,554$
+16683,2022-Aug-30,Laptop,2132
+16697,2022-Aug-30,coffee machine,4969
+16706,2022-Aug-30,Laptop,2735
+16734,2022-Aug-30,Microwave oven,453
+16738,2022-Aug-30,Laptop,779
+16767,2022-Aug-30,Phone,895
+16782,2022-Aug-30,Microwave oven,150
+16785,2022-Aug-30,TV,633$
+16826,2022-Aug-30,Phone,430
+16829,2022-Aug-30,TV,1864
+16847,2022-Aug-30,Phone,1244
+16955,2022-Aug-30,coffee machine,1536
+16964,2022-Aug-30,Microwave oven,571
+17002,2022-Aug-30,coffee machine,2814
+17048,2022-Aug-30,TV,1716
+17049,2022-Aug-30,Microwave oven,582
+17054,2022-Aug-30,coffee machine,4304
+17057,2022-Aug-30,Laptop,609
+17073,2022-Aug-30,Microwave oven,202$
+17092,2022-Aug-30,TV,1890$
+17097,2022-Aug-30,TV,1106
+17121,2022-Aug-30,TV,2070
+17122,2022-Aug-30,Laptop,1120
+17124,2022-Aug-30,Vacuum cleaner,241
+17151,2022-Aug-30,TV,2069$
+17198,2022-Aug-30,TV,787$
+17240,2022-Aug-30,Laptop,1695
+17315,2022-Aug-30,TV,526$
+17319,2022-Aug-30,Laptop,1813
+17352,2022-Aug-30,Vacuum cleaner,757
+17381,2022-Aug-30,Microwave oven,566$
+17382,2022-Aug-30,TV,626
+17402,2022-Aug-30,TV,1399
+17412,2022-Aug-30,Microwave oven,523
+17419,2022-Aug-30,Phone,692$
+17455,2022-Aug-30,Microwave oven,127
+17488,2022-Aug-30,Vacuum cleaner,357
+17504,2022-Aug-30,Laptop,2409
+17565,2022-Aug-30,Microwave oven,450
+17580,2022-Aug-30,Laptop,3340
+17590,2022-Aug-30,Laptop,3083
+17591,2022-Aug-30,TV,1937
+17594,2022-Aug-30,TV,1276
+17610,2022-Aug-30,coffee machine,4888
+17646,2022-Aug-30,Laptop,2997
+17657,2022-Aug-30,Microwave oven,511$
+17675,2022-Aug-30,Microwave oven,365$
+17679,2022-Aug-30,TV,1664
+17691,2022-Aug-30,coffee machine,1733
+17713,2022-Aug-30,coffee machine,3412
+17727,2022-Aug-30,Laptop,550
+17740,2022-Aug-30,Microwave oven,567
+17754,2022-Aug-30,Microwave oven,353
+17766,2022-Aug-30,TV,1814$
+17776,2022-Aug-30,Laptop,3166
+17794,2022-Aug-30,Vacuum cleaner,335$
+17794,2022-Aug-30,Vacuum cleaner,326
+17808,2022-Aug-30,Phone,1126
+17844,2022-Aug-30,Phone,902
+17857,2022-Aug-30,Laptop,1148
+17868,2022-Aug-30,TV,1312$
+17892,2022-Aug-30,coffee machine,331
+17896,2022-Aug-30,TV,1908
+17902,2022-Aug-30,coffee machine,4332
+17923,2022-Aug-30,Microwave oven,344$
+17952,2022-Aug-30,Microwave oven,272
+18001,2022-Aug-30,TV,1614
+18008,2022-Aug-30,TV,906
+18009,2022-Aug-30,Laptop,3001
+18009,2022-Aug-30,Laptop,3209
+18017,2022-Aug-30,Phone,551
+18051,2022-Aug-30,Laptop,1791
+18060,2022-Aug-30,Phone,1255
+18068,2022-Aug-30,coffee machine,129
+18088,2022-Aug-30,coffee machine,837
+18093,2022-Aug-30,Microwave oven,186
+18094,2022-Aug-30,Laptop,1832
+18125,2022-Aug-30,Microwave oven,517
+18172,2022-Aug-30,Microwave oven,312
+18190,2022-Aug-30,coffee machine,583
+18215,2022-Aug-30,Laptop,531$
+18220,2022-Aug-30,coffee machine,4684
+18241,2022-Aug-30,Vacuum cleaner,449
+18243,2022-Aug-30,TV,1787
+18255,2022-Aug-30,Phone,482$
+18262,2022-Aug-30,coffee machine,3932
+18264,2022-Aug-30,TV,596$
+18268,2022-Aug-30,Phone,397
+18270,2022-Aug-30,coffee machine,1362
+18281,2022-Aug-30,TV,1118
+18305,2022-Aug-30,Phone,1041
+18365,2022-Aug-30,Vacuum cleaner,561
+18399,2022-Aug-30,Laptop,2318
+18404,2022-Aug-30,coffee machine,4965$
+18452,2022-Aug-30,Laptop,2083
+18458,2022-Aug-30,Vacuum cleaner,346
+18483,2022-Aug-30,TV,911
+18485,2022-Aug-30,Vacuum cleaner,677
+18487,2022-Aug-30,coffee machine,2848$
+18488,2022-Aug-30,Vacuum cleaner,653
+18501,2022-Aug-30,coffee machine,1259$
+18524,2022-Aug-30,TV,982
+18530,2022-Aug-30,Phone,1056$
+18586,2022-Aug-30,Phone,294
+18607,2022-Aug-30,Microwave oven,397
+18633,2022-Aug-30,coffee machine,4985
+18655,2022-Aug-30,coffee machine,3121$
+18666,2022-Aug-30,TV,649
+18671,2022-Aug-30,TV,1960
+18690,2022-Aug-30,coffee machine,1694
+18754,2022-Aug-30,Vacuum cleaner,159
+18814,2022-Aug-30,Microwave oven,413
+18926,2022-Aug-30,Phone,588
+18935,2022-Aug-30,Laptop,2385
+18962,2022-Aug-30,TV,1248
+19001,2022-Aug-30,Phone,403
+19021,2022-Aug-30,Vacuum cleaner,485
+19052,2022-Aug-30,Microwave oven,369$
+19087,2022-Aug-30,coffee machine,3164
+19105,2022-Aug-30,Phone,635
+19190,2022-Aug-30,TV,887
+19203,2022-Aug-30,Vacuum cleaner,480
+19250,2022-Aug-30,Vacuum cleaner,108
+19316,2022-Aug-30,Laptop,2198
+19332,2022-Aug-30,Laptop,672
+19337,2022-Aug-30,Phone,1295
+19344,2022-Aug-30,Laptop,3404
+19382,2022-Aug-30,Vacuum cleaner,484
+19404,2022-Aug-30,Laptop,2226
+19436,2022-Aug-30,Microwave oven,288
+19464,2022-Aug-30,Microwave oven,356
+19491,2022-Aug-30,Vacuum cleaner,401
+19537,2022-Aug-30,coffee machine,4037
+19602,2022-Aug-30,Laptop,1352
+19606,2022-Aug-30,TV,1864
+19611,2022-Aug-30,TV,1271
+19615,2022-Aug-30,Laptop,1004
+19642,2022-Aug-30,Vacuum cleaner,349
+19668,2022-Aug-30,Phone,335$
+19685,2022-Aug-30,Vacuum cleaner,601$
+19689,2022-Aug-30,coffee machine,3013
+19700,2022-Aug-30,Laptop,1160$
+19701,2022-Aug-30,Laptop,2345
+19711,2022-Aug-30,TV,518
+19716,2022-Aug-30,Vacuum cleaner,167
+19725,2022-Aug-30,Laptop,2529$
+19771,2022-Aug-30,Vacuum cleaner,529$
+19821,2022-Aug-30,Laptop,2857
+19832,2022-Aug-30,Vacuum cleaner,492$
+19858,2022-Aug-30,TV,776
+19877,2022-Aug-30,coffee machine,3653$
+19885,2022-Aug-30,Laptop,1346
+19894,2022-Aug-30,TV,2493
+19904,2022-Aug-30,TV,1020
+19922,2022-Aug-30,Phone,339
+19952,2022-Aug-30,TV,935$
+19955,2022-Aug-30,Phone,1018
+19966,2022-Aug-30,Laptop,1646
+19974,2022-Aug-30,Microwave oven,331
+19997,2022-Aug-30,Laptop,2753
+20020,2022-Aug-30,TV,503
+20025,2022-Aug-30,Microwave oven,259
+20054,2022-Aug-30,coffee machine,4053
+20088,2022-Aug-30,Microwave oven,388
+20095,2022-Aug-30,TV,1604$
+20097,2022-Aug-30,Microwave oven,104$
+20118,2022-Aug-30,Vacuum cleaner,606
+20147,2022-Aug-30,Phone,198
+20162,2022-Aug-30,Microwave oven,210
+20173,2022-Aug-30,coffee machine,4078$
+20182,2022-Aug-30,Vacuum cleaner,132
+20230,2022-Aug-30,Laptop,548$
+20250,2022-Aug-30,coffee machine,4317$
+20292,2022-Aug-30,coffee machine,4844$
+20300,2022-Aug-30,TV,1737$
+20331,2022-Aug-30,Microwave oven,373
+20340,2022-Aug-30,Microwave oven,595
+20349,2022-Aug-30,Laptop,1425$
+20372,2022-Aug-30,TV,1585
+20390,2022-Aug-30,Phone,700$
+20445,2022-Aug-30,Laptop,1026
+20461,2022-Aug-30,Laptop,1214$
+20490,2022-Aug-30,Microwave oven,126
+20491,2022-Aug-30,Phone,562
+20507,2022-Aug-30,Vacuum cleaner,198$
+20522,2022-Aug-30,coffee machine,1763
+20634,2022-Aug-30,Laptop,2562
+20642,2022-Aug-30,Laptop,644
+20644,2022-Aug-30,Vacuum cleaner,126
+20657,2022-Aug-30,Microwave oven,204
+20680,2022-Aug-30,Phone,1442
+20725,2022-Aug-30,Vacuum cleaner,383
+20726,2022-Aug-30,Vacuum cleaner,182$
+20734,2022-Aug-30,Microwave oven,293
+20779,2022-Aug-30,TV,502$
+20790,2022-Aug-30,Vacuum cleaner,89
+20824,2022-Aug-30,coffee machine,2210
+20833,2022-Aug-30,coffee machine,536
+20843,2022-Aug-30,TV,1633
+20858,2022-Aug-30,Phone,1001
+20859,2022-Aug-30,Phone,1106
+20937,2022-Aug-30,Laptop,2562
+20957,2022-Aug-30,Microwave oven,219
+20972,2022-Aug-30,TV,1667
+20973,2022-Aug-30,coffee machine,2237
+20977,2022-Aug-30,Vacuum cleaner,106
+20978,2022-Aug-30,Laptop,1828
+21024,2022-Aug-30,Phone,716
+21031,2022-Aug-30,Microwave oven,277
+21058,2022-Aug-30,Laptop,1648
+21121,2022-Aug-30,Laptop,2276$
+21122,2022-Aug-30,coffee machine,1733
+21128,2022-Aug-30,coffee machine,4259$
+21151,2022-Aug-30,Microwave oven,587$
+21154,2022-Aug-30,Laptop,2435
+21162,2022-Aug-30,Laptop,3265
+21170,2022-Aug-30,Microwave oven,449$
+21182,2022-Aug-30,Phone,448
+21207,2022-Aug-30,Laptop,2561
+21228,2022-Aug-30,Phone,1338
+21255,2022-Aug-30,Laptop,2208$
+21265,2022-Aug-30,TV,1926
+21272,2022-Aug-30,TV,1082
+21291,2022-Aug-30,Laptop,3085
+21291,2022-Aug-30,Phone,506
+21302,2022-Aug-30,TV,2002
+21334,2022-Aug-30,Vacuum cleaner,365
+21397,2022-Aug-30,TV,891
+21424,2022-Aug-30,coffee machine,3055
+21429,2022-Aug-30,Phone,633
+21469,2022-Aug-30,TV,1856
+21532,2022-Aug-30,coffee machine,4667
+21535,2022-Aug-30,TV,1788
+21547,2022-Aug-30,Vacuum cleaner,789
+21568,2022-Aug-30,Microwave oven,250
+21607,2022-Aug-30,Phone,418
+21639,2022-Aug-30,Laptop,1668
+21642,2022-Aug-30,Phone,1084
+21686,2022-Aug-30,Microwave oven,170
+21749,2022-Aug-30,Phone,477
+21793,2022-Aug-30,Microwave oven,384
+21819,2022-Aug-30,coffee machine,1854$
+21823,2022-Aug-30,Laptop,1683
+21839,2022-Aug-30,Vacuum cleaner,136$
+21853,2022-Aug-30,Phone,822
+21924,2022-Aug-30,Vacuum cleaner,620
+21925,2022-Aug-30,TV,1655
+21948,2022-Aug-30,Laptop,1561
+21966,2022-Aug-30,Microwave oven,324
+22002,2022-Aug-30,coffee machine,1926
+22036,2022-Aug-30,Laptop,872
+22040,2022-Aug-30,Microwave oven,482$
+22047,2022-Aug-30,Phone,908
+22082,2022-Aug-30,TV,1559
+22102,2022-Aug-30,Laptop,1309
+22122,2022-Aug-30,Laptop,2870
+22148,2022-Aug-30,Vacuum cleaner,291
+22170,2022-Aug-30,Phone,468$
+22175,2022-Aug-30,coffee machine,1873$
+22181,2022-Aug-30,Microwave oven,441$
+22185,2022-Aug-30,Phone,375
+22207,2022-Aug-30,TV,1295
+22228,2022-Aug-30,TV,727
+22231,2022-Aug-30,coffee machine,3120
+22234,2022-Aug-30,coffee machine,4083
+22254,2022-Aug-30,Microwave oven,271
+22294,2022-Aug-30,Phone,1408
+22302,2022-Aug-30,coffee machine,1606
+22320,2022-Aug-30,Microwave oven,206$
+22327,2022-Aug-30,Vacuum cleaner,500
+22338,2022-Aug-30,Phone,1413
+22382,2022-Aug-30,Microwave oven,238
+22387,2022-Aug-30,Phone,1490
+22397,2022-Aug-30,Vacuum cleaner,420
+22411,2022-Aug-30,Microwave oven,435
+22429,2022-Aug-30,Phone,853
+22438,2022-Aug-30,Microwave oven,248
+22444,2022-Aug-30,Phone,510
+22449,2022-Aug-30,Vacuum cleaner,150
+22480,2022-Aug-30,coffee machine,2670
+22507,2022-Aug-30,Phone,1122
+22527,2022-Aug-30,Phone,753
+22539,2022-Aug-30,Laptop,573
+22546,2022-Aug-30,Phone,1223
+22553,2022-Aug-30,Laptop,2836
+22578,2022-Aug-30,Phone,576
+22587,2022-Aug-30,Phone,688$
+22595,2022-Aug-30,coffee machine,4745
+22613,2022-Aug-30,Vacuum cleaner,657$
+22650,2022-Aug-30,Phone,541
+22656,2022-Aug-30,Microwave oven,189
+22684,2022-Aug-30,TV,1244
+22705,2022-Aug-30,coffee machine,278
+22707,2022-Aug-30,TV,1418
+22708,2022-Aug-30,Phone,201
+22709,2022-Aug-30,Phone,1455
+22740,2022-Aug-30,Laptop,1104
+22774,2022-Aug-30,Vacuum cleaner,414
+22802,2022-Aug-30,Phone,958
+22839,2022-Aug-30,Laptop,2580
+22847,2022-Aug-30,Vacuum cleaner,287
+22858,2022-Aug-30,Laptop,2568
+22866,2022-Aug-30,Microwave oven,108$
+22871,2022-Aug-30,Vacuum cleaner,638
+22876,2022-Aug-30,Microwave oven,366
+22881,2022-Aug-30,Phone,1206
+22893,2022-Aug-30,Laptop,3215
+22897,2022-Aug-30,Phone,1145
+22943,2022-Aug-30,Microwave oven,550
+22987,2022-Aug-30,Microwave oven,424$
+22993,2022-Aug-30,TV,2328
+23008,2022-Aug-30,coffee machine,4598
+23057,2022-Aug-30,Laptop,2274
+23097,2022-Aug-30,Phone,1383
+23099,2022-Aug-30,coffee machine,1122$
+23113,2022-Aug-30,Laptop,3492
+23121,2022-Aug-30,Laptop,1132
+23130,2022-Aug-30,TV,2106
+23136,2022-Aug-30,Laptop,2732
+23161,2022-Aug-30,Vacuum cleaner,401
+23180,2022-Aug-30,coffee machine,2400
+23197,2022-Aug-30,coffee machine,414
+23218,2022-Aug-30,Phone,1145
+23231,2022-Aug-30,Laptop,916
+23249,2022-Aug-30,Microwave oven,293
+23266,2022-Aug-30,Phone,658
+23279,2022-Aug-30,coffee machine,4750
+23281,2022-Aug-30,Vacuum cleaner,391$
+23285,2022-Aug-30,Microwave oven,435
+23304,2022-Aug-30,Phone,310
+23331,2022-Aug-30,Laptop,536
+23335,2022-Aug-30,TV,725
+23354,2022-Aug-30,Phone,1362
+23359,2022-Aug-30,Phone,905
+23364,2022-Aug-30,Laptop,1659
+23368,2022-Aug-30,Vacuum cleaner,534
+23375,2022-Aug-30,Vacuum cleaner,469
+23421,2022-Aug-30,Vacuum cleaner,192$
+23431,2022-Aug-30,Laptop,3252$
+23448,2022-Aug-30,Phone,733
+23462,2022-Aug-30,Microwave oven,231
+23462,2022-Aug-30,Microwave oven,132
+23471,2022-Aug-30,Laptop,872
+23473,2022-Aug-30,Microwave oven,433
+23478,2022-Aug-30,Vacuum cleaner,362
+23490,2022-Aug-30,Microwave oven,150$
+23500,2022-Aug-30,Phone,1451
+23506,2022-Aug-30,Vacuum cleaner,300
+23537,2022-Aug-30,Laptop,3483
+23576,2022-Aug-30,TV,2298
+23634,2022-Aug-30,TV,1029$
+23705,2022-Aug-30,Phone,887
+23719,2022-Aug-30,TV,2208$
+23840,2022-Aug-30,coffee machine,4642
+23845,2022-Aug-30,Laptop,1200
+23854,2022-Aug-30,TV,2034
+23859,2022-Aug-30,Microwave oven,376
+23868,2022-Aug-30,TV,2178
+23894,2022-Aug-30,Laptop,1631
+23897,2022-Aug-30,Laptop,2770
+23924,2022-Aug-30,Phone,312
+23982,2022-Aug-30,TV,2093$
+23982,2022-Aug-30,coffee machine,2439
+23984,2022-Aug-30,Phone,1309
+24000,2022-Aug-30,Phone,1363
+24025,2022-Aug-30,Laptop,2524
+24084,2022-Aug-30,Phone,911
+24096,2022-Aug-30,coffee machine,1164
+24103,2022-Aug-30,Microwave oven,441$
+24108,2022-Aug-30,Microwave oven,356
+24125,2022-Aug-30,coffee machine,4738
+24151,2022-Aug-30,Laptop,794
+24154,2022-Aug-30,Vacuum cleaner,471
+24171,2022-Aug-30,Microwave oven,570
+24171,2022-Aug-30,coffee machine,332$
+24177,2022-Aug-30,Vacuum cleaner,401
+24185,2022-Aug-30,TV,1038
+24199,2022-Aug-30,Laptop,1442
+24219,2022-Aug-30,Vacuum cleaner,237
+24241,2022-Aug-30,Laptop,2842$
+24250,2022-Aug-30,Laptop,1198
+24273,2022-Aug-30,Vacuum cleaner,724
+24293,2022-Aug-30,TV,974
+24298,2022-Aug-30,Laptop,2432$
+24327,2022-Aug-30,Laptop,872
+24345,2022-Aug-30,Microwave oven,310$
+24367,2022-Aug-30,coffee machine,498
+24372,2022-Aug-30,coffee machine,1540
+24374,2022-Aug-30,Microwave oven,120
+24387,2022-Aug-30,TV,1509$
+24395,2022-Aug-30,Microwave oven,106
+24397,2022-Aug-30,Phone,360
+24405,2022-Aug-30,Phone,1046
+24446,2022-Aug-30,coffee machine,2670
+24484,2022-Aug-30,TV,1451$
+24487,2022-Aug-30,Phone,1074$
+24492,2022-Aug-30,TV,745
+24510,2022-Aug-30,coffee machine,800
+24513,2022-Aug-30,Vacuum cleaner,551
+24537,2022-Aug-30,Vacuum cleaner,702
+24569,2022-Aug-30,Microwave oven,588
+24580,2022-Aug-30,Phone,1452
+24594,2022-Aug-30,Laptop,2821
+24596,2022-Aug-30,Phone,1300
+24648,2022-Aug-30,Laptop,2085
+24665,2022-Aug-30,TV,1010
+24680,2022-Aug-30,Laptop,737
+24686,2022-Aug-30,TV,1741$
+24714,2022-Aug-30,Laptop,2827
+24722,2022-Aug-30,TV,1107
+24728,2022-Aug-30,Vacuum cleaner,548$
+24740,2022-Aug-30,Vacuum cleaner,774
+24799,2022-Aug-30,Phone,1329
+24805,2022-Aug-30,coffee machine,994
+24813,2022-Aug-30,Phone,1137$
+24818,2022-Aug-30,TV,2010
+24854,2022-Aug-30,coffee machine,4832
+24860,2022-Aug-30,Vacuum cleaner,438
+24868,2022-Aug-30,Microwave oven,512
+24887,2022-Aug-30,TV,1066
+24924,2022-Aug-30,Vacuum cleaner,569
+24962,2022-Aug-30,TV,1798
+24980,2022-Aug-30,Vacuum cleaner,582$
+25011,2022-Aug-30,Vacuum cleaner,191$
+25011,2022-Aug-30,Vacuum cleaner,587
+25040,2022-Aug-30,Vacuum cleaner,680
+25043,2022-Aug-30,Phone,1083
+25056,2022-Aug-30,coffee machine,366
+25086,2022-Aug-30,Microwave oven,469
+25101,2022-Aug-30,Phone,1005$
+25125,2022-Aug-30,Laptop,3313
+25145,2022-Aug-30,TV,1196
+25194,2022-Aug-30,Laptop,2806
+25198,2022-Aug-30,Phone,1166
+25247,2022-Aug-30,Vacuum cleaner,743$
+25261,2022-Aug-30,Microwave oven,595
+25298,2022-Aug-30,coffee machine,832$
+25323,2022-Aug-30,TV,2073
+25337,2022-Aug-30,Microwave oven,409$
+25372,2022-Aug-30,Microwave oven,210
+25380,2022-Aug-30,Laptop,3168$
+25380,2022-Aug-30,Phone,756$
+25381,2022-Aug-30,Phone,1223
+25384,2022-Aug-30,Laptop,2077
+25387,2022-Aug-30,Phone,320
+25398,2022-Aug-30,coffee machine,2168
+25432,2022-Aug-30,Microwave oven,100
+25463,2022-Aug-30,coffee machine,2331
+25489,2022-Aug-30,coffee machine,4031
+25501,2022-Aug-30,coffee machine,738
+25521,2022-Aug-30,coffee machine,2042
+25528,2022-Aug-30,Phone,575
+25536,2022-Aug-30,TV,657
+25573,2022-Aug-30,Vacuum cleaner,650
+25576,2022-Aug-30,Vacuum cleaner,524
+25579,2022-Aug-30,Vacuum cleaner,174
+25580,2022-Aug-30,Microwave oven,437
+25581,2022-Aug-30,Laptop,1574
+25583,2022-Aug-30,TV,844
+25618,2022-Aug-30,TV,1655
+25619,2022-Aug-30,TV,1904
+25649,2022-Aug-30,Microwave oven,128
+25729,2022-Aug-30,Vacuum cleaner,425
+25784,2022-Aug-30,Laptop,2838
+25806,2022-Aug-30,Microwave oven,525
+25807,2022-Aug-30,coffee machine,1522$
+25808,2022-Aug-30,Phone,602$
+25830,2022-Aug-30,Phone,511
+25846,2022-Aug-30,coffee machine,1563
+25873,2022-Aug-30,Phone,1220
+25879,2022-Aug-30,Laptop,1670
+25886,2022-Aug-30,Laptop,3450$
+25915,2022-Aug-30,Vacuum cleaner,785
+25921,2022-Aug-30,Vacuum cleaner,290
+25931,2022-Aug-30,Vacuum cleaner,793
+25938,2022-Aug-30,Vacuum cleaner,570
+25962,2022-Aug-30,Vacuum cleaner,472$
+26019,2022-Aug-30,Phone,625$
+26047,2022-Aug-30,coffee machine,2139
+26080,2022-Aug-30,Laptop,2707$
+26119,2022-Aug-30,Vacuum cleaner,549
+26143,2022-Aug-30,Phone,1404
+26184,2022-Aug-30,Microwave oven,246$
+26197,2022-Aug-30,Phone,321$
+26198,2022-Aug-30,Microwave oven,270
+26201,2022-Aug-30,Microwave oven,177
+26210,2022-Aug-30,Laptop,2021
+26229,2022-Aug-30,Vacuum cleaner,781
+26234,2022-Aug-30,Vacuum cleaner,102
+26239,2022-Aug-30,coffee machine,1098
+26255,2022-Aug-30,Laptop,2918
+26269,2022-Aug-30,Vacuum cleaner,750$
+26272,2022-Aug-30,Phone,409
+26280,2022-Aug-30,Vacuum cleaner,199
+26281,2022-Aug-30,Microwave oven,482
+26297,2022-Aug-30,Phone,1136
+26321,2022-Aug-30,Laptop,1345
+26342,2022-Aug-30,Phone,548$
+26352,2022-Aug-30,coffee machine,2201
+26380,2022-Aug-30,Phone,926
+26384,2022-Aug-30,Microwave oven,446
+26454,2022-Aug-30,Microwave oven,560$
+26468,2022-Aug-30,Vacuum cleaner,344
+26482,2022-Aug-30,Vacuum cleaner,309
+26489,2022-Aug-30,Microwave oven,402
+26519,2022-Aug-30,Vacuum cleaner,138
+26544,2022-Aug-30,Microwave oven,427
+26558,2022-Aug-30,Phone,407$
+26569,2022-Aug-30,Vacuum cleaner,248
+26571,2022-Aug-30,Phone,819
+26608,2022-Aug-30,coffee machine,110
+26617,2022-Aug-30,Microwave oven,458
+26622,2022-Aug-30,Phone,488
+26648,2022-Aug-30,Vacuum cleaner,728
+26655,2022-Aug-30,Vacuum cleaner,628
+26690,2022-Aug-30,coffee machine,4691$
+26713,2022-Aug-30,Microwave oven,564
+26718,2022-Aug-30,Vacuum cleaner,518
+26749,2022-Aug-30,coffee machine,2216$
+26750,2022-Aug-30,Laptop,633
+26770,2022-Aug-30,Phone,988
+26784,2022-Aug-30,coffee machine,4578
+26806,2022-Aug-30,TV,629
+26809,2022-Aug-30,Vacuum cleaner,322
+26826,2022-Aug-30,Laptop,3268
+26837,2022-Aug-30,Microwave oven,524
+26852,2022-Aug-30,Phone,699
+26854,2022-Aug-30,Vacuum cleaner,429
+26870,2022-Aug-30,coffee machine,1111
+26897,2022-Aug-30,Vacuum cleaner,165
+26916,2022-Aug-30,TV,2280
+26924,2022-Aug-30,Microwave oven,520
+26947,2022-Aug-30,Vacuum cleaner,81
+26956,2022-Aug-30,Microwave oven,363
+26961,2022-Aug-30,coffee machine,3354$
+26994,2022-Aug-30,TV,795
+26998,2022-Aug-30,Vacuum cleaner,712
+27052,2022-Aug-30,Microwave oven,390
+27059,2022-Aug-30,Phone,960
+27082,2022-Aug-30,Laptop,1446
+27096,2022-Aug-30,coffee machine,672
+27100,2022-Aug-30,TV,501
+27107,2022-Aug-30,Laptop,1945$
+27126,2022-Aug-30,Microwave oven,174
+27171,2022-Aug-30,Vacuum cleaner,533
+27180,2022-Aug-30,Vacuum cleaner,382
+27221,2022-Aug-30,Phone,532
+27238,2022-Aug-30,coffee machine,1160
+27246,2022-Aug-30,Microwave oven,272
+27287,2022-Aug-30,Laptop,1188
+27295,2022-Aug-30,coffee machine,4666
+27321,2022-Aug-30,Microwave oven,494
+27462,2022-Aug-30,TV,598
+27472,2022-Aug-30,coffee machine,2193
+27486,2022-Aug-30,coffee machine,714$
+27530,2022-Aug-30,Phone,470
+27542,2022-Aug-30,Phone,1195
+27554,2022-Aug-30,TV,749$
+27564,2022-Aug-30,coffee machine,2500
+27567,2022-Aug-30,Microwave oven,522
+27589,2022-Aug-30,coffee machine,2600$
+27592,2022-Aug-30,TV,846
+27597,2022-Aug-30,Laptop,2480
+27610,2022-Aug-30,coffee machine,4950
+27612,2022-Aug-30,coffee machine,129$
+27658,2022-Aug-30,Vacuum cleaner,669$
+27665,2022-Aug-30,Vacuum cleaner,382
+27710,2022-Aug-30,coffee machine,2048
+27716,2022-Aug-30,Microwave oven,514$
+27717,2022-Aug-30,TV,1638
+27724,2022-Aug-30,Laptop,1801
+27725,2022-Aug-30,Vacuum cleaner,570
+27737,2022-Aug-30,Microwave oven,527
+27742,2022-Aug-30,Phone,611$
+27742,2022-Aug-30,Microwave oven,457
+27746,2022-Aug-30,Microwave oven,219$
+27754,2022-Aug-30,Laptop,1146
+27769,2022-Aug-30,TV,780
+27771,2022-Aug-30,Vacuum cleaner,535
+27789,2022-Aug-30,Vacuum cleaner,688
+27814,2022-Aug-30,Vacuum cleaner,86
+27839,2022-Aug-30,Phone,518
+27842,2022-Aug-30,TV,1206
+27844,2022-Aug-30,Laptop,1147
+27877,2022-Aug-30,TV,1831
+27898,2022-Aug-30,Laptop,2908$
+27912,2022-Aug-30,Vacuum cleaner,159
+27927,2022-Aug-30,coffee machine,2476
+28007,2022-Aug-30,Phone,323$
+28017,2022-Aug-30,Microwave oven,306
+28051,2022-Aug-30,Laptop,1287
+28057,2022-Aug-30,TV,1509
+28059,2022-Aug-30,Microwave oven,587
+28065,2022-Aug-30,Laptop,2376$
+28098,2022-Aug-30,TV,1363
+28112,2022-Aug-30,Phone,754
+28150,2022-Aug-30,Microwave oven,246
+28185,2022-Aug-30,Vacuum cleaner,620
+28210,2022-Aug-30,coffee machine,516$
+28239,2022-Aug-30,Vacuum cleaner,592
+28241,2022-Aug-30,coffee machine,1163
+28328,2022-Aug-30,Vacuum cleaner,402
+28342,2022-Aug-30,Vacuum cleaner,417
+28369,2022-Aug-30,TV,1594
+28381,2022-Aug-30,Vacuum cleaner,647
+28381,2022-Aug-30,TV,648$
+28402,2022-Aug-30,Phone,1383
+28444,2022-Aug-30,coffee machine,2061
+28453,2022-Aug-30,Vacuum cleaner,536
+28474,2022-Aug-30,coffee machine,480$
+28524,2022-Aug-30,coffee machine,937$
+28560,2022-Aug-30,coffee machine,3823
+28565,2022-Aug-30,TV,1382
+28572,2022-Aug-30,Microwave oven,168
+28583,2022-Aug-30,Phone,203$
+28601,2022-Aug-30,Phone,952
+28605,2022-Aug-30,TV,962
+28628,2022-Aug-30,coffee machine,986
+28651,2022-Aug-30,TV,2052
+28672,2022-Aug-30,coffee machine,1889
+28687,2022-Aug-30,Vacuum cleaner,569
+28812,2022-Aug-30,Phone,1301$
+28875,2022-Aug-30,TV,1102$
+28936,2022-Aug-30,Laptop,1584
+28964,2022-Aug-30,Laptop,943
+28985,2022-Aug-30,Vacuum cleaner,395
+29005,2022-Aug-30,TV,1397
+29007,2022-Aug-30,coffee machine,3345
+29013,2022-Aug-30,Vacuum cleaner,739$
+29019,2022-Aug-30,Laptop,2800
+29037,2022-Aug-30,Laptop,3062
+29051,2022-Aug-30,Vacuum cleaner,390
+29072,2022-Aug-30,Microwave oven,564
+29184,2022-Aug-30,Microwave oven,345$
+29201,2022-Aug-30,TV,1415
+29202,2022-Aug-30,coffee machine,4847
+29203,2022-Aug-30,Phone,1267$
+29214,2022-Aug-30,Phone,1190
+29270,2022-Aug-30,Phone,238
+29286,2022-Aug-30,TV,1602$
+29317,2022-Aug-30,Phone,1318
+29363,2022-Aug-30,TV,1237
+29388,2022-Aug-30,Laptop,3412
+29394,2022-Aug-30,coffee machine,1488$
+29400,2022-Aug-30,Laptop,645
+29416,2022-Aug-30,Laptop,585
+29427,2022-Aug-30,coffee machine,1067
+29518,2022-Aug-30,coffee machine,3424
+29619,2022-Aug-30,Phone,1267
+29668,2022-Aug-30,Vacuum cleaner,663
+29690,2022-Aug-30,coffee machine,677$
+29699,2022-Aug-30,coffee machine,4109
+29706,2022-Aug-30,Microwave oven,488
+29708,2022-Aug-30,Vacuum cleaner,93
+29753,2022-Aug-30,Microwave oven,165
+29756,2022-Aug-30,Laptop,1762$
+29774,2022-Aug-30,Phone,560
+29787,2022-Aug-30,TV,917$
+29802,2022-Aug-30,TV,1013
+29835,2022-Aug-30,Laptop,3392$
+29847,2022-Aug-30,Laptop,3035
+29853,2022-Aug-30,TV,1874
+29860,2022-Aug-30,Laptop,2791
+29880,2022-Aug-30,Vacuum cleaner,250
+29886,2022-Aug-30,Laptop,1610$
+29915,2022-Aug-30,coffee machine,2629
+29924,2022-Aug-30,TV,2300
+29954,2022-Aug-30,TV,2222
+29981,2022-Aug-30,Laptop,542
+29981,2022-Aug-30,Phone,1381
+30003,2022-Aug-30,coffee machine,3501
+30008,2022-Aug-30,Phone,808
+30011,2022-Aug-30,Vacuum cleaner,715
+30013,2022-Aug-30,Laptop,2261
+30039,2022-Aug-30,TV,767
+30090,2022-Aug-30,coffee machine,4612$
+30091,2022-Aug-30,Vacuum cleaner,247
+30110,2022-Aug-30,Phone,417$
+30112,2022-Aug-30,Phone,570$
+30115,2022-Aug-30,Microwave oven,472
+30126,2022-Aug-30,TV,2168
+30161,2022-Aug-30,Phone,943
+30170,2022-Aug-30,Microwave oven,345
+30181,2022-Aug-30,Vacuum cleaner,86
+30225,2022-Aug-30,Microwave oven,118
+30245,2022-Aug-30,Microwave oven,127
+30260,2022-Aug-30,Microwave oven,195
+30285,2022-Aug-30,Vacuum cleaner,293
+30346,2022-Aug-30,Vacuum cleaner,268
+30358,2022-Aug-30,Microwave oven,273
+30374,2022-Aug-30,Laptop,2867
+30401,2022-Aug-30,TV,1763
+30409,2022-Aug-30,Phone,1104
+30412,2022-Aug-30,coffee machine,4247
+30429,2022-Aug-30,Phone,416
+30433,2022-Aug-30,Vacuum cleaner,126$
+30445,2022-Aug-30,TV,2225$
+30464,2022-Aug-30,Laptop,1325
+30478,2022-Aug-30,TV,771$
+30480,2022-Aug-30,Vacuum cleaner,135
+30492,2022-Aug-30,coffee machine,3340
+30492,2022-Aug-30,Microwave oven,585
+30574,2022-Aug-30,Laptop,1237
+30629,2022-Aug-30,coffee machine,3800$
+30633,2022-Aug-30,TV,526
+30634,2022-Aug-30,TV,2230
+30634,2022-Aug-30,coffee machine,3078$
+30695,2022-Aug-30,Microwave oven,121
+30701,2022-Aug-30,TV,2135
+30741,2022-Aug-30,Microwave oven,249
+30751,2022-Aug-30,Phone,681
+30751,2022-Aug-30,Phone,1278
+30786,2022-Aug-30,Vacuum cleaner,173
+30800,2022-Aug-30,Microwave oven,549
+30823,2022-Aug-30,coffee machine,1382
+30834,2022-Aug-30,Phone,922
+30841,2022-Aug-30,TV,657
+30850,2022-Aug-30,Vacuum cleaner,453
+30856,2022-Aug-30,Vacuum cleaner,800$
+30874,2022-Aug-30,Laptop,1045
+30913,2022-Aug-30,Laptop,2823
+30918,2022-Aug-30,Phone,824
+30933,2022-Aug-30,TV,1635
+30945,2022-Aug-30,coffee machine,4379
+30951,2022-Aug-30,Vacuum cleaner,677
+30970,2022-Aug-30,coffee machine,659
+30972,2022-Aug-30,Vacuum cleaner,792$
+30982,2022-Aug-30,coffee machine,4134
+30994,2022-Aug-30,coffee machine,789
+31005,2022-Aug-30,Laptop,3354
+31010,2022-Aug-30,Phone,429
+31099,2022-Aug-30,Vacuum cleaner,325
+31124,2022-Aug-30,Phone,688
+31173,2022-Aug-30,Laptop,1115
+31195,2022-Aug-30,Microwave oven,462
+31207,2022-Aug-30,TV,2188
+31208,2022-Aug-30,coffee machine,1076
+31212,2022-Aug-30,Laptop,2455
+31272,2022-Aug-30,TV,1163
+31275,2022-Aug-30,Phone,262
+31290,2022-Aug-30,Vacuum cleaner,573$
+31306,2022-Aug-30,TV,1879
+31309,2022-Aug-30,Microwave oven,326$
+31363,2022-Aug-30,coffee machine,4437
+31374,2022-Aug-30,TV,2487
+31445,2022-Aug-30,Phone,653
+31461,2022-Aug-30,Laptop,2892
+31495,2022-Aug-30,Microwave oven,189$
+31511,2022-Aug-30,TV,890
+31519,2022-Aug-30,Laptop,3164
+31525,2022-Aug-30,Vacuum cleaner,130
+31552,2022-Aug-30,Microwave oven,469
+31591,2022-Aug-30,Phone,778
+31594,2022-Aug-30,Vacuum cleaner,416
+31598,2022-Aug-30,Laptop,3265
+31648,2022-Aug-30,coffee machine,1025
+31687,2022-Aug-30,Microwave oven,239
+31730,2022-Aug-30,coffee machine,3086$
+31732,2022-Aug-30,TV,1773$
+31737,2022-Aug-30,coffee machine,2278
+31745,2022-Aug-30,Microwave oven,573
+31798,2022-Aug-30,TV,737$
+31804,2022-Aug-30,Vacuum cleaner,295
+31891,2022-Aug-30,Phone,1223
+31995,2022-Aug-30,Vacuum cleaner,327
+32027,2022-Aug-30,TV,1332
+32043,2022-Aug-30,Vacuum cleaner,510
+32099,2022-Aug-30,coffee machine,240
+32100,2022-Aug-30,Microwave oven,268$
+32140,2022-Aug-30,TV,1675
+32142,2022-Aug-30,Microwave oven,116
+32185,2022-Aug-30,Microwave oven,570
+32191,2022-Aug-30,TV,1923
+32191,2022-Aug-30,Vacuum cleaner,462
+32223,2022-Aug-30,coffee machine,465
+32225,2022-Aug-30,TV,2249
+32226,2022-Aug-30,Laptop,1379$
+32235,2022-Aug-30,Laptop,2607
+32236,2022-Aug-30,TV,2355
+32278,2022-Aug-30,Microwave oven,217
+32329,2022-Aug-30,coffee machine,2097
+32349,2022-Aug-30,Phone,1280$
+32377,2022-Aug-30,coffee machine,4374
+32388,2022-Aug-30,Phone,224$
+32394,2022-Aug-30,Laptop,3153
+32403,2022-Aug-30,coffee machine,3315
+32412,2022-Aug-30,Microwave oven,450
+32441,2022-Aug-30,Vacuum cleaner,275
+32455,2022-Aug-30,Vacuum cleaner,166
+32462,2022-Aug-30,Laptop,2909$
+32498,2022-Aug-30,coffee machine,4528
+32537,2022-Aug-30,Phone,1065
+32538,2022-Aug-30,Microwave oven,308
+32583,2022-Aug-30,TV,1767
+32623,2022-Aug-30,Microwave oven,416$
+32639,2022-Aug-30,TV,1544
+32653,2022-Aug-30,Laptop,2680
+32659,2022-Aug-30,Laptop,1829
+32660,2022-Aug-30,Laptop,2950
+32666,2022-Aug-30,Phone,238
+32676,2022-Aug-30,Phone,695
+32676,2022-Aug-30,Laptop,3417
+32685,2022-Aug-30,Microwave oven,202
+32693,2022-Aug-30,Vacuum cleaner,611
+32759,2022-Aug-30,TV,1026
+32764,2022-Aug-30,TV,2370
+32801,2022-Aug-30,Vacuum cleaner,728
+32814,2022-Aug-30,Phone,1148
+32821,2022-Aug-30,Phone,670
+32825,2022-Aug-30,TV,1670
+32826,2022-Aug-30,Phone,778
+32859,2022-Aug-30,Laptop,1250
+32868,2022-Aug-30,Phone,1286
+32879,2022-Aug-30,Vacuum cleaner,781
+32891,2022-Aug-30,TV,1583$
+32942,2022-Aug-30,Microwave oven,162
+32945,2022-Aug-30,Microwave oven,234
+32971,2022-Aug-30,Vacuum cleaner,382
+32983,2022-Aug-30,coffee machine,4777
+32992,2022-Aug-30,Vacuum cleaner,659$
+33006,2022-Aug-30,Vacuum cleaner,407
+33027,2022-Aug-30,Phone,411
+33032,2022-Aug-30,Microwave oven,163$
+33070,2022-Aug-30,Phone,324
+33087,2022-Aug-30,Laptop,722
+33102,2022-Aug-30,coffee machine,213$
+33119,2022-Aug-30,Vacuum cleaner,111
+33128,2022-Aug-30,coffee machine,3849
+33139,2022-Aug-30,Vacuum cleaner,750
+33173,2022-Aug-30,Microwave oven,591
+33192,2022-Aug-30,Microwave oven,392
+33274,2022-Aug-30,Phone,637
+33279,2022-Aug-30,Microwave oven,336
+33282,2022-Aug-30,Vacuum cleaner,313
+33319,2022-Aug-30,Phone,1248
+33337,2022-Aug-30,Vacuum cleaner,167
+33356,2022-Aug-30,Microwave oven,507
+33397,2022-Aug-30,TV,695
+33401,2022-Aug-30,Laptop,1641
+33415,2022-Aug-30,Vacuum cleaner,230
+33440,2022-Aug-30,Phone,505$
+33460,2022-Aug-30,coffee machine,3765
+33460,2022-Aug-30,TV,578
+33462,2022-Aug-30,Vacuum cleaner,793
+33475,2022-Aug-30,Microwave oven,207
+33490,2022-Aug-30,TV,1658
+33492,2022-Aug-30,Vacuum cleaner,278
+33494,2022-Aug-30,Microwave oven,151
+33513,2022-Aug-30,Laptop,3099$
+33542,2022-Aug-30,Laptop,2377
+33545,2022-Aug-30,coffee machine,1914
+33561,2022-Aug-30,Phone,416
+33566,2022-Aug-30,Laptop,715
+33630,2022-Aug-30,Vacuum cleaner,139$
+33682,2022-Aug-30,coffee machine,3104
+33690,2022-Aug-30,coffee machine,3083
+33697,2022-Aug-30,Laptop,684
+33729,2022-Aug-30,coffee machine,751
+33735,2022-Aug-30,Vacuum cleaner,731$
+33770,2022-Aug-30,Vacuum cleaner,695
+33819,2022-Aug-30,TV,616
+33838,2022-Aug-30,Vacuum cleaner,495
+33848,2022-Aug-30,Phone,915
+33855,2022-Aug-30,TV,2309
+33887,2022-Aug-30,Microwave oven,409
+33890,2022-Aug-30,Microwave oven,385
+33931,2022-Aug-30,Microwave oven,399
+33946,2022-Aug-30,Vacuum cleaner,309
+33962,2022-Aug-30,TV,1402$
+33969,2022-Aug-30,Microwave oven,523
+33990,2022-Aug-30,Vacuum cleaner,390
+34001,2022-Aug-30,TV,1716
+34034,2022-Aug-30,TV,538$
+34034,2022-Aug-30,Phone,298
+34044,2022-Aug-30,coffee machine,4136$
+34067,2022-Aug-30,Vacuum cleaner,195
+34088,2022-Aug-30,Laptop,3259
+34094,2022-Aug-30,coffee machine,1969
+34184,2022-Aug-30,Laptop,1151
+34212,2022-Aug-30,Vacuum cleaner,521
+34235,2022-Aug-30,Microwave oven,172
+34264,2022-Aug-30,Phone,661
+34270,2022-Aug-30,Laptop,632
+34283,2022-Aug-30,TV,2007
+34285,2022-Aug-30,coffee machine,1070
+34296,2022-Aug-30,Phone,749
+34331,2022-Aug-30,Phone,1100
+34354,2022-Aug-30,Phone,803
+34388,2022-Aug-30,Vacuum cleaner,263$
+34423,2022-Aug-30,Phone,409
+34427,2022-Aug-30,Vacuum cleaner,367
+34428,2022-Aug-30,coffee machine,3005
+34456,2022-Aug-30,Vacuum cleaner,102$
+34532,2022-Aug-30,coffee machine,4724
+34573,2022-Aug-30,TV,1000$
+34627,2022-Aug-30,Laptop,1152$
+34634,2022-Aug-30,Vacuum cleaner,237
+34656,2022-Aug-30,coffee machine,2771$
+34688,2022-Aug-30,Vacuum cleaner,353
+34689,2022-Aug-30,Phone,1002$
+34732,2022-Aug-30,Laptop,2641
+34733,2022-Aug-30,Laptop,2607$
+34751,2022-Aug-30,coffee machine,277
+34753,2022-Aug-30,Microwave oven,267
+34768,2022-Aug-30,coffee machine,1439$
+34817,2022-Aug-30,Microwave oven,527
+34837,2022-Aug-30,Microwave oven,416
+34870,2022-Aug-30,coffee machine,2014
+34879,2022-Aug-30,TV,1131
+34884,2022-Aug-30,Microwave oven,575
+34898,2022-Aug-30,Vacuum cleaner,522
+34899,2022-Aug-30,Microwave oven,510
+34927,2022-Aug-30,Phone,660
+34937,2022-Aug-30,Laptop,1197
+34937,2022-Aug-30,Phone,276$
+34944,2022-Aug-30,Phone,1492
+34947,2022-Aug-30,Vacuum cleaner,450
+34950,2022-Aug-30,TV,2494
+34954,2022-Aug-30,coffee machine,433
+34981,2022-Aug-30,Microwave oven,406
+34983,2022-Aug-30,coffee machine,4956$
+35026,2022-Aug-30,Laptop,1620
+35038,2022-Aug-30,coffee machine,4880$
+35087,2022-Aug-30,Laptop,3313
+35106,2022-Aug-30,Microwave oven,405
+35120,2022-Aug-30,Laptop,609
+35138,2022-Aug-30,Laptop,2262$
+35142,2022-Aug-30,Phone,1491
+35193,2022-Aug-30,Phone,392
+35197,2022-Aug-30,TV,2324
+35203,2022-Aug-30,Vacuum cleaner,647
+35220,2022-Aug-30,Vacuum cleaner,98
+35229,2022-Aug-30,Vacuum cleaner,737
+35235,2022-Aug-30,Laptop,717
+35241,2022-Aug-30,Vacuum cleaner,92
+35267,2022-Aug-30,Laptop,2557
+35273,2022-Aug-30,Laptop,2550
+35300,2022-Aug-30,Microwave oven,346
+35357,2022-Aug-30,Vacuum cleaner,214
+35376,2022-Aug-30,Vacuum cleaner,94
+35397,2022-Aug-30,coffee machine,3675
+35423,2022-Aug-30,coffee machine,2950
+35439,2022-Aug-30,Microwave oven,481$
+35442,2022-Aug-30,Microwave oven,450
+35448,2022-Aug-30,Microwave oven,119
+35469,2022-Aug-30,TV,2328
+35477,2022-Aug-30,TV,1029$
+35492,2022-Aug-30,coffee machine,3536
+35508,2022-Aug-30,Laptop,2939
+35532,2022-Aug-30,Microwave oven,469
+35555,2022-Aug-30,Phone,671
+35563,2022-Aug-30,Microwave oven,596
+35590,2022-Aug-30,Phone,1033$
+35601,2022-Aug-30,TV,630
+35635,2022-Aug-30,Microwave oven,151
+35644,2022-Aug-30,TV,1860
+35654,2022-Aug-30,Microwave oven,249$
+35658,2022-Aug-30,Microwave oven,236
+35673,2022-Aug-30,Laptop,833
+35676,2022-Aug-30,coffee machine,1888
+35700,2022-Aug-30,Phone,1250
+35705,2022-Aug-30,Laptop,2925
+35728,2022-Aug-30,coffee machine,4721$
+35739,2022-Aug-30,Laptop,1308
+35753,2022-Aug-30,Phone,990
+35839,2022-Aug-30,Vacuum cleaner,783$
+35847,2022-Aug-30,TV,2351
+35849,2022-Aug-30,coffee machine,342
+35855,2022-Aug-30,Vacuum cleaner,657$
+35863,2022-Aug-30,Microwave oven,341
+35869,2022-Aug-30,TV,1386
+35881,2022-Aug-30,Laptop,2556
+35901,2022-Aug-30,Laptop,2951
+35919,2022-Aug-30,Microwave oven,222
+35959,2022-Aug-30,Vacuum cleaner,251
+35965,2022-Aug-30,Laptop,1134
+35974,2022-Aug-30,Phone,927
+35978,2022-Aug-30,Vacuum cleaner,273
+36004,2022-Aug-30,TV,1124
+36007,2022-Aug-30,coffee machine,345
+36011,2022-Aug-30,Phone,606
+36015,2022-Aug-30,Laptop,3030
+36015,2022-Aug-30,coffee machine,1733
+36030,2022-Aug-30,TV,1379
+36041,2022-Aug-30,Microwave oven,234
+36061,2022-Aug-30,coffee machine,4859
+36062,2022-Aug-30,Microwave oven,106
+36062,2022-Aug-30,Phone,547
+36071,2022-Aug-30,coffee machine,1830
+36078,2022-Aug-30,coffee machine,1685
+36087,2022-Aug-30,Vacuum cleaner,293
+36141,2022-Aug-30,Vacuum cleaner,292$
+36169,2022-Aug-30,Vacuum cleaner,472$
+36207,2022-Aug-30,TV,2208
+36208,2022-Aug-30,coffee machine,4940
+36242,2022-Aug-30,Phone,1344
+36284,2022-Aug-30,coffee machine,3132
+36291,2022-Aug-30,Vacuum cleaner,532
+36302,2022-Aug-30,TV,1331
+36309,2022-Aug-30,coffee machine,135
+36320,2022-Aug-30,coffee machine,4902$
+36336,2022-Aug-30,Microwave oven,286
+36344,2022-Aug-30,coffee machine,4093
+36374,2022-Aug-30,coffee machine,2543
+36380,2022-Aug-30,TV,533
+36384,2022-Aug-30,Microwave oven,474
+36389,2022-Aug-30,coffee machine,3256$
+36391,2022-Aug-30,coffee machine,619
+36393,2022-Aug-30,Microwave oven,520$
+36406,2022-Aug-30,Microwave oven,579
+36429,2022-Aug-30,coffee machine,4616
+36451,2022-Aug-30,Phone,532
+36482,2022-Aug-30,Vacuum cleaner,798
+36518,2022-Aug-30,Vacuum cleaner,432
+36530,2022-Aug-30,TV,2072
+36534,2022-Aug-30,TV,2172
+36534,2022-Aug-30,TV,728
+36539,2022-Aug-30,Microwave oven,320
+36546,2022-Aug-30,Laptop,2460
+36619,2022-Aug-30,Laptop,2388
+36640,2022-Aug-30,Microwave oven,424
+36645,2022-Aug-30,Phone,544
+36667,2022-Aug-30,Microwave oven,436$
+36709,2022-Aug-30,Microwave oven,194
+36740,2022-Aug-30,Microwave oven,406$
+36740,2022-Aug-30,Microwave oven,487
+36741,2022-Aug-30,coffee machine,2994
+36748,2022-Aug-30,TV,1239$
+36757,2022-Aug-30,TV,2170$
+36760,2022-Aug-30,TV,2258USD
+36795,2022-Aug-30,TV,629$
+36807,2022-Aug-30,TV,2285USD
+36840,2022-Aug-30,Microwave oven,443
+36869,2022-Aug-30,Vacuum cleaner,664$
+36891,2022-Aug-30,TV,899
+36971,2022-Aug-30,Phone,1252
+36999,2022-Aug-30,Laptop,1332
+37003,2022-Aug-30,Microwave oven,512
+37019,2022-Aug-30,Laptop,2190
+37049,2022-Aug-30,Vacuum cleaner,685
+37058,2022-Aug-30,Vacuum cleaner,657$
+37072,2022-Aug-30,coffee machine,1342
+37116,2022-Aug-30,Vacuum cleaner,715
+37126,2022-Aug-30,Microwave oven,455
+37161,2022-Aug-30,Laptop,2209$
+37227,2022-Aug-30,Microwave oven,352$
+37229,2022-Aug-30,Vacuum cleaner,721$
+37243,2022-Aug-30,Phone,353
+37288,2022-Aug-30,Laptop,3385$
+37312,2022-Aug-30,Microwave oven,271
+37327,2022-Aug-30,Vacuum cleaner,220$
+37340,2022-Aug-30,Phone,1075
+37364,2022-Aug-30,coffee machine,881
+37365,2022-Aug-30,TV,535
+37372,2022-Aug-30,Microwave oven,112$
+37377,2022-Aug-30,Microwave oven,368
+37390,2022-Aug-30,coffee machine,3062
+37481,2022-Aug-30,TV,549
+37494,2022-Aug-30,Phone,1293
+37593,2022-Aug-30,coffee machine,3171
+37637,2022-Aug-30,coffee machine,2781
+37647,2022-Aug-30,Phone,1377$
+37655,2022-Aug-30,Laptop,2365
+37663,2022-Aug-30,Vacuum cleaner,159
+37689,2022-Aug-30,TV,1020
+37697,2022-Aug-30,coffee machine,1386
+37734,2022-Aug-30,TV,2407$
+37735,2022-Aug-30,coffee machine,1560
+37747,2022-Aug-30,TV,1671$
+37759,2022-Aug-30,TV,1835
+37788,2022-Aug-30,TV,961
+37797,2022-Aug-30,Microwave oven,245
+37806,2022-Aug-30,Vacuum cleaner,375
+37833,2022-Aug-30,coffee machine,3744
+37842,2022-Aug-30,Vacuum cleaner,115
+37844,2022-Aug-30,Vacuum cleaner,153
+37858,2022-Aug-30,Microwave oven,171$
+37889,2022-Aug-30,TV,1491
+37930,2022-Aug-30,Phone,1315
+37990,2022-Aug-30,Vacuum cleaner,569
+37999,2022-Aug-30,Phone,623
+38006,2022-Aug-30,TV,606$
+38065,2022-Aug-30,coffee machine,2054
+38073,2022-Aug-30,Microwave oven,172$
+38097,2022-Aug-30,Vacuum cleaner,457$
+38142,2022-Aug-30,Laptop,1308
+38170,2022-Aug-30,coffee machine,3421$
+38228,2022-Aug-30,coffee machine,2028
+38231,2022-Aug-30,coffee machine,4745$
+38279,2022-Aug-30,Vacuum cleaner,425
+38289,2022-Aug-30,Laptop,858
+38293,2022-Aug-30,Microwave oven,537
+38316,2022-Aug-30,TV,1345$
+38318,2022-Aug-30,Laptop,1034
+38320,2022-Aug-30,Phone,977
+38322,2022-Aug-30,Phone,208
+38323,2022-Aug-30,Laptop,977
+38325,2022-Aug-30,Laptop,2556
+38352,2022-Aug-30,coffee machine,1199
+38383,2022-Aug-30,TV,2396
+38422,2022-Aug-30,Microwave oven,591
+38425,2022-Aug-30,coffee machine,1610
+38431,2022-Aug-30,Laptop,1454
+38438,2022-Aug-30,Laptop,1559
+38443,2022-Aug-30,coffee machine,3003
+38466,2022-Aug-30,Laptop,1430$
+38478,2022-Aug-30,Phone,752
+38483,2022-Aug-30,Microwave oven,404
+38519,2022-Aug-30,Vacuum cleaner,204
+38545,2022-Aug-30,Vacuum cleaner,480
+38590,2022-Aug-30,Laptop,871
+38620,2022-Aug-30,Phone,1051
+38649,2022-Aug-30,TV,2039
+38669,2022-Aug-30,Vacuum cleaner,720
+38670,2022-Aug-30,coffee machine,539$
+38671,2022-Aug-30,Phone,1421
+38704,2022-Aug-30,TV,1318
+38717,2022-Aug-30,TV,2163
+38732,2022-Aug-30,Phone,936
+38752,2022-Aug-30,Phone,1490
+38760,2022-Aug-30,Microwave oven,242
+38767,2022-Aug-30,Phone,981
+38790,2022-Aug-30,TV,2035$
+38794,2022-Aug-30,Phone,877
+38811,2022-Aug-30,Microwave oven,391
+38849,2022-Aug-30,Microwave oven,243$
+38855,2022-Aug-30,Vacuum cleaner,386$
+38866,2022-Aug-30,Vacuum cleaner,707
+38879,2022-Aug-30,TV,2226$
+38908,2022-Aug-30,Microwave oven,338
+38925,2022-Aug-30,Microwave oven,377
+38975,2022-Aug-30,TV,675
+38999,2022-Aug-30,Microwave oven,476
+39024,2022-Aug-30,Vacuum cleaner,374
+39078,2022-Aug-30,TV,2265
+39079,2022-Aug-30,Vacuum cleaner,442
+39081,2022-Aug-30,Laptop,1522
+39113,2022-Aug-30,TV,807
+39232,2022-Aug-30,Phone,484
+39238,2022-Aug-30,Laptop,3082
+39250,2022-Aug-30,Vacuum cleaner,508
+39253,2022-Aug-30,Phone,922
+39271,2022-Aug-30,Phone,1439$
+39285,2022-Aug-30,TV,2319
+39335,2022-Aug-30,Microwave oven,252
+39340,2022-Aug-30,coffee machine,1344
+39353,2022-Aug-30,Laptop,3350
+39371,2022-Aug-30,TV,1295
+39408,2022-Aug-30,TV,1935$
+39450,2022-Aug-30,coffee machine,1785$
+39453,2022-Aug-30,Laptop,2683
+39473,2022-Aug-30,Phone,1289$
+39483,2022-Aug-30,Vacuum cleaner,101$
+39496,2022-Aug-30,TV,859
+39501,2022-Aug-30,TV,859
+39531,2022-Aug-30,Laptop,1300
+39550,2022-Aug-30,Microwave oven,370
+39556,2022-Aug-30,Vacuum cleaner,282$
+39590,2022-Aug-30,TV,709
+39632,2022-Aug-30,Laptop,1075
+39643,2022-Aug-30,coffee machine,3460
+39677,2022-Aug-30,coffee machine,260
+39736,2022-Aug-30,Microwave oven,271
+39769,2022-Aug-30,TV,513
+39771,2022-Aug-30,TV,1066$
+39774,2022-Aug-30,coffee machine,3245
+39786,2022-Aug-30,coffee machine,2115
+39823,2022-Aug-30,Microwave oven,274
+39842,2022-Aug-30,Phone,702
+39864,2022-Aug-30,Laptop,1660
+39877,2022-Aug-30,Phone,330
+39896,2022-Aug-30,Laptop,548$
+39936,2022-Aug-30,Phone,890
+39960,2022-Aug-30,coffee machine,3827$
+39965,2022-Aug-30,Phone,1186
+39987,2022-Aug-30,coffee machine,1767
+40000,2022-Aug-30,Laptop,2732
+40003,2022-Aug-30,coffee machine,2763
+40012,2022-Aug-30,Vacuum cleaner,133$
+40019,2022-Aug-30,Microwave oven,563$
+40038,2022-Aug-30,Microwave oven,207
+40051,2022-Aug-30,Laptop,2230
+40063,2022-Aug-30,Laptop,2422$
+40102,2022-Aug-30,Phone,1031$
+40103,2022-Aug-30,Laptop,972
+40106,2022-Aug-30,Vacuum cleaner,210
+40113,2022-Aug-30,Phone,1455
+40114,2022-Aug-30,Vacuum cleaner,86
+40139,2022-Aug-30,Phone,361
+40148,2022-Aug-30,Vacuum cleaner,416$
+40161,2022-Aug-30,Phone,366
+40209,2022-Aug-30,Vacuum cleaner,163
+40234,2022-Aug-30,coffee machine,4340
+40300,2022-Aug-30,Vacuum cleaner,290
+40312,2022-Aug-30,Microwave oven,290
+40325,2022-Aug-30,Vacuum cleaner,382
+40330,2022-Aug-30,coffee machine,4775$
+40332,2022-Aug-30,coffee machine,3903
+40368,2022-Aug-30,Laptop,536
+40403,2022-Aug-30,Laptop,3412
+40410,2022-Aug-30,Microwave oven,133
+40433,2022-Aug-30,Laptop,567
+40497,2022-Aug-30,coffee machine,4631
+40521,2022-Aug-30,Microwave oven,161
+40532,2022-Aug-30,Microwave oven,555
+40589,2022-Aug-30,Laptop,2878
+40596,2022-Aug-30,Phone,1111
+40598,2022-Aug-30,Microwave oven,316$
+40598,2022-Aug-30,Laptop,1315
+40607,2022-Aug-30,Microwave oven,488
+40611,2022-Aug-30,coffee machine,462
+40784,2022-Aug-30,TV,1141$
+40793,2022-Aug-30,TV,1073
+40874,2022-Aug-30,TV,789
+40881,2022-Aug-30,Microwave oven,459$
+40924,2022-Aug-30,Vacuum cleaner,617
+40931,2022-Aug-30,Laptop,1740
+40939,2022-Aug-30,Laptop,1191
+40958,2022-Aug-30,coffee machine,2070
+40963,2022-Aug-30,TV,1963
+40968,2022-Aug-30,Phone,1289$
+40972,2022-Aug-30,Phone,348
+40977,2022-Aug-30,Phone,472
+41026,2022-Aug-30,Phone,1468$
+41031,2022-Aug-30,coffee machine,1896
+41032,2022-Aug-30,Microwave oven,501
+41048,2022-Aug-30,Phone,396
+41055,2022-Aug-30,Laptop,1143
+41058,2022-Aug-30,Microwave oven,479
+41066,2022-Aug-30,Laptop,1002$
+41107,2022-Aug-30,Laptop,3367
+41136,2022-Aug-30,Laptop,1170
+41145,2022-Aug-30,Vacuum cleaner,368
+41155,2022-Aug-30,Vacuum cleaner,487
+41250,2022-Aug-30,Phone,296
+41269,2022-Aug-30,coffee machine,4427
+41329,2022-Aug-30,Phone,843
+41346,2022-Aug-30,Vacuum cleaner,606
+41347,2022-Aug-30,Vacuum cleaner,678
+41383,2022-Aug-30,Vacuum cleaner,121
+41384,2022-Aug-30,Phone,542
+41395,2022-Aug-30,Laptop,3309
+41400,2022-Aug-30,Phone,478
+41421,2022-Aug-30,Phone,966$
+41434,2022-Aug-30,Vacuum cleaner,110
+41442,2022-Aug-30,Laptop,1377
+41470,2022-Aug-30,TV,1244
+41485,2022-Aug-30,Microwave oven,548
+41492,2022-Aug-30,TV,2027
+41494,2022-Aug-30,TV,798
+41495,2022-Aug-30,Microwave oven,258
+41511,2022-Aug-30,Laptop,2388
+41516,2022-Aug-30,coffee machine,2238
+41526,2022-Aug-30,TV,1073
+41534,2022-Aug-30,coffee machine,2415
+41536,2022-Aug-30,Vacuum cleaner,132
+41560,2022-Aug-30,Vacuum cleaner,558$
+41658,2022-Aug-30,Microwave oven,305$
+41674,2022-Aug-30,Microwave oven,427
+41687,2022-Aug-30,TV,1449
+41714,2022-Aug-30,Laptop,1657
+41740,2022-Aug-30,coffee machine,679
+41768,2022-Aug-30,Phone,676$
+41804,2022-Aug-30,Vacuum cleaner,123
+41834,2022-Aug-30,Laptop,1319
+41872,2022-Aug-30,Laptop,2366$
+41891,2022-Aug-30,Laptop,1282
+41892,2022-Aug-30,coffee machine,3492
+41906,2022-Aug-30,Microwave oven,543$
+41910,2022-Aug-30,coffee machine,3907
+41936,2022-Aug-30,Phone,874
+41937,2022-Aug-30,TV,2073
+41940,2022-Aug-30,Microwave oven,293
+41962,2022-Aug-30,coffee machine,3307$
+41964,2022-Aug-30,coffee machine,1472$
+41973,2022-Aug-30,coffee machine,1791$
+41993,2022-Aug-30,Phone,1336$
+42050,2022-Aug-30,Microwave oven,394
+42095,2022-Aug-30,Vacuum cleaner,634
+42099,2022-Aug-30,coffee machine,3345
+42109,2022-Aug-30,Laptop,1980
+42117,2022-Aug-30,TV,2418$
+42153,2022-Aug-30,coffee machine,639
+42163,2022-Aug-30,Vacuum cleaner,260
+42207,2022-Aug-30,Laptop,2217
+42214,2022-Aug-30,Microwave oven,402
+42214,2022-Aug-30,Phone,618
+42244,2022-Aug-30,Laptop,927
+42246,2022-Aug-30,Laptop,731
+42268,2022-Aug-30,coffee machine,4001
+42311,2022-Aug-30,Phone,697
+42324,2022-Aug-30,TV,925
+42340,2022-Aug-30,Laptop,2286$
+42369,2022-Aug-30,Laptop,898
+42371,2022-Aug-30,Microwave oven,533
+42411,2022-Aug-30,Vacuum cleaner,626$
+42443,2022-Aug-30,Vacuum cleaner,629
+42462,2022-Aug-30,Phone,799
+42467,2022-Aug-30,Vacuum cleaner,570$
+42471,2022-Aug-30,coffee machine,2114
+42488,2022-Aug-30,coffee machine,879
+42514,2022-Aug-30,Vacuum cleaner,697
+42521,2022-Aug-30,Microwave oven,135
+42531,2022-Aug-30,Laptop,1649$
+42533,2022-Aug-30,TV,635
+42545,2022-Aug-30,Microwave oven,487
+42554,2022-Aug-30,Vacuum cleaner,655
+42576,2022-Aug-30,Phone,675
+42621,2022-Aug-30,coffee machine,4898$
+42665,2022-Aug-30,TV,1505
+42678,2022-Aug-30,coffee machine,3826
+42688,2022-Aug-30,Vacuum cleaner,702
+42697,2022-Aug-30,Laptop,1966
+42720,2022-Aug-30,TV,709$
+42732,2022-Aug-30,Microwave oven,449
+42766,2022-Aug-30,Phone,1279
+42781,2022-Aug-30,Vacuum cleaner,547
+42787,2022-Aug-30,coffee machine,4830$
+42803,2022-Aug-30,coffee machine,3258
+42888,2022-Aug-30,Vacuum cleaner,773
+42909,2022-Aug-30,coffee machine,3056
+42925,2022-Aug-30,Phone,608
+42928,2022-Aug-30,Vacuum cleaner,657
+42960,2022-Aug-30,Vacuum cleaner,85
+42977,2022-Aug-30,TV,1485
+42992,2022-Aug-30,Microwave oven,332
+43000,2022-Aug-30,Phone,150
+43029,2022-Aug-30,TV,1133
+43077,2022-Aug-30,TV,1441$
+43091,2022-Aug-30,Phone,862
+43163,2022-Aug-30,Microwave oven,115
+43181,2022-Aug-30,coffee machine,608
+43197,2022-Aug-30,TV,2141
+43200,2022-Aug-30,TV,773
+43204,2022-Aug-30,Laptop,3152$
+43215,2022-Aug-30,Vacuum cleaner,153$
+43218,2022-Aug-30,TV,1126
+43221,2022-Aug-30,Vacuum cleaner,128$
+43225,2022-Aug-30,Microwave oven,483
+43238,2022-Aug-30,Phone,259
+43266,2022-Aug-30,TV,1191
+43283,2022-Aug-30,TV,1860
+43296,2022-Aug-30,TV,1484
+43303,2022-Aug-30,coffee machine,2198
+43303,2022-Aug-30,coffee machine,3480
+43381,2022-Aug-30,coffee machine,960
+43428,2022-Aug-30,Microwave oven,449
+43430,2022-Aug-30,Microwave oven,541
+43474,2022-Aug-30,Vacuum cleaner,551
+43510,2022-Aug-30,coffee machine,2594
+43517,2022-Aug-30,TV,2152
+43519,2022-Aug-30,coffee machine,908
+43553,2022-Aug-30,Laptop,1836
+43581,2022-Aug-30,TV,986
+43617,2022-Aug-30,Phone,711
+43620,2022-Aug-30,TV,1488$
+43632,2022-Aug-30,Phone,1399
+43669,2022-Aug-30,Phone,235$
+43687,2022-Aug-30,Microwave oven,103
+43702,2022-Aug-30,Vacuum cleaner,378
+43710,2022-Aug-30,Microwave oven,574
+43712,2022-Aug-30,coffee machine,520
+43763,2022-Aug-30,Laptop,3448
+43767,2022-Aug-30,Microwave oven,305
+43776,2022-Aug-30,Microwave oven,232
+43791,2022-Aug-30,Phone,912
+43799,2022-Aug-30,Vacuum cleaner,318
+43884,2022-Aug-30,TV,2274
+43896,2022-Aug-30,Microwave oven,334
+43917,2022-Aug-30,TV,1131$
+43923,2022-Aug-30,TV,1518
+43946,2022-Aug-30,Vacuum cleaner,773
+43954,2022-Aug-30,TV,1632
+43965,2022-Aug-30,Microwave oven,435
+44015,2022-Aug-30,TV,1085
+44027,2022-Aug-30,Vacuum cleaner,339
+44050,2022-Aug-30,Phone,1338
+44082,2022-Aug-30,coffee machine,1231
+44100,2022-Aug-30,Microwave oven,322
+44109,2022-Aug-30,Microwave oven,156$
+44136,2022-Aug-30,coffee machine,2862
+44149,2022-Aug-30,Laptop,1343
+44152,2022-Aug-30,Laptop,2348
+44154,2022-Aug-30,Vacuum cleaner,107
+44190,2022-Aug-30,Laptop,1658
+44201,2022-Aug-30,Phone,332
+44208,2022-Aug-30,Vacuum cleaner,386
+44216,2022-Aug-30,coffee machine,3322
+44225,2022-Aug-30,Phone,615$
+44260,2022-Aug-30,coffee machine,4288$
+44268,2022-Aug-30,Laptop,2027$
+44291,2022-Aug-30,Phone,1158
+44309,2022-Aug-30,TV,1689$
+44309,2022-Aug-30,Microwave oven,439
+44333,2022-Aug-30,Vacuum cleaner,586
+44355,2022-Aug-30,Vacuum cleaner,224
+44363,2022-Aug-30,TV,1601
+44390,2022-Aug-30,Vacuum cleaner,551
+44401,2022-Aug-30,Microwave oven,407
+44422,2022-Aug-30,Phone,1201
+44440,2022-Aug-30,Laptop,1360
+44453,2022-Aug-30,Laptop,545
+44459,2022-Aug-30,Vacuum cleaner,504
+44489,2022-Aug-30,TV,1647
+44516,2022-Aug-30,Vacuum cleaner,193$
+44528,2022-Aug-30,Microwave oven,377
+44533,2022-Aug-30,coffee machine,4266
+44570,2022-Aug-30,TV,1965
+44598,2022-Aug-30,Microwave oven,489$
+44655,2022-Aug-30,Microwave oven,265
+44662,2022-Aug-30,coffee machine,702
+44687,2022-Aug-30,coffee machine,3626
+44691,2022-Aug-30,coffee machine,2785
+44693,2022-Aug-30,Vacuum cleaner,273
+44699,2022-Aug-30,TV,1701
+44715,2022-Aug-30,coffee machine,3364$
+44743,2022-Aug-30,Laptop,2102$
+44757,2022-Aug-30,Laptop,3043
+44778,2022-Aug-30,Vacuum cleaner,799
+44861,2022-Aug-30,Microwave oven,315
+44904,2022-Aug-30,Microwave oven,179
+45013,2022-Aug-30,TV,1863
+45033,2022-Aug-30,Microwave oven,590$
+45145,2022-Aug-30,TV,672
+45205,2022-Aug-30,coffee machine,960
+45219,2022-Aug-30,Vacuum cleaner,418
+45226,2022-Aug-30,Laptop,805$
+45272,2022-Aug-30,coffee machine,1874
+45298,2022-Aug-30,coffee machine,1318
+45302,2022-Aug-30,coffee machine,2385
+45303,2022-Aug-30,TV,2372
+45305,2022-Aug-30,TV,1827
+45318,2022-Aug-30,TV,1081
+45342,2022-Aug-30,coffee machine,2878
+45343,2022-Aug-30,Microwave oven,155$
+45367,2022-Aug-30,Laptop,2197$
+45373,2022-Aug-30,Vacuum cleaner,214
+45406,2022-Aug-30,Laptop,3217
+45448,2022-Aug-30,Laptop,548
+45456,2022-Aug-30,coffee machine,4801
+45459,2022-Aug-30,Laptop,577
+45459,2022-Aug-30,coffee machine,4327$
+45472,2022-Aug-30,Microwave oven,346
+45500,2022-Aug-30,Vacuum cleaner,362
+45515,2022-Aug-30,coffee machine,318$
+45540,2022-Aug-30,TV,2008
+45549,2022-Aug-30,Microwave oven,385
+45575,2022-Aug-30,coffee machine,4807
+45578,2022-Aug-30,Vacuum cleaner,345
+45582,2022-Aug-30,Microwave oven,568
+45595,2022-Aug-30,coffee machine,1548
+45617,2022-Aug-30,Phone,904
+45664,2022-Aug-30,Vacuum cleaner,640
+45669,2022-Aug-30,coffee machine,3990$
+45699,2022-Aug-30,Phone,551
+45700,2022-Aug-30,TV,1380$
+45701,2022-Aug-30,Vacuum cleaner,336
+45707,2022-Aug-30,Phone,1403
+45716,2022-Aug-30,Microwave oven,481
+45769,2022-Aug-30,coffee machine,4305
+45773,2022-Aug-30,Phone,1077$
+45820,2022-Aug-30,Vacuum cleaner,301
+45837,2022-Aug-30,TV,2136$
+45851,2022-Aug-30,coffee machine,3287
+45892,2022-Aug-30,Vacuum cleaner,101
+45910,2022-Aug-30,TV,531
+45927,2022-Aug-30,Laptop,1349
+45943,2022-Aug-30,Microwave oven,553
+45949,2022-Aug-30,TV,1198
+45978,2022-Aug-30,Vacuum cleaner,503$
+45997,2022-Aug-30,Microwave oven,132
+46006,2022-Aug-30,coffee machine,142
+46013,2022-Aug-30,Phone,930
+46021,2022-Aug-30,TV,1775
+46032,2022-Aug-30,Vacuum cleaner,308
+46037,2022-Aug-30,TV,1735
+46049,2022-Aug-30,Vacuum cleaner,643
+46096,2022-Aug-30,Microwave oven,215
+46106,2022-Aug-30,Laptop,2631
+46124,2022-Aug-30,Phone,237$
+46128,2022-Aug-30,Phone,591$
+46142,2022-Aug-30,coffee machine,2440
+46145,2022-Aug-30,Phone,848
+46150,2022-Aug-30,coffee machine,1896
+46178,2022-Aug-30,TV,2460
+46264,2022-Aug-30,TV,2230
+46268,2022-Aug-30,Phone,1408
+46281,2022-Aug-30,Phone,1001
+46305,2022-Aug-30,Phone,1278$
+46421,2022-Aug-30,Phone,1456
+46435,2022-Aug-30,TV,1565$
+46456,2022-Aug-30,TV,932
+46466,2022-Aug-30,TV,1925
+46492,2022-Aug-30,TV,548
+46545,2022-Aug-30,Vacuum cleaner,98
+46550,2022-Aug-30,coffee machine,4341
+46551,2022-Aug-30,Laptop,2576$
+46560,2022-Aug-30,Microwave oven,257
+46563,2022-Aug-30,coffee machine,1241
+46593,2022-Aug-30,Vacuum cleaner,300
+46618,2022-Aug-30,TV,2068
+46650,2022-Aug-30,Microwave oven,566
+46658,2022-Aug-30,TV,959$
+46660,2022-Aug-30,Phone,1069
+46678,2022-Aug-30,Phone,765
+46698,2022-Aug-30,TV,739
+46719,2022-Aug-30,Vacuum cleaner,653
+46723,2022-Aug-30,coffee machine,3023
+46739,2022-Aug-30,Vacuum cleaner,570
+46766,2022-Aug-30,Laptop,3196
+46778,2022-Aug-30,coffee machine,3266
+46782,2022-Aug-30,coffee machine,3756
+46808,2022-Aug-30,coffee machine,2926
+46813,2022-Aug-30,Vacuum cleaner,432
+46823,2022-Aug-30,Laptop,766$
+46843,2022-Aug-30,Vacuum cleaner,682
+46878,2022-Aug-30,TV,1943
+46894,2022-Aug-30,coffee machine,2623
+46902,2022-Aug-30,Phone,934
+46909,2022-Aug-30,Phone,1473
+46923,2022-Aug-30,Laptop,3060
+46926,2022-Aug-30,Laptop,853
+46927,2022-Aug-30,TV,931
+46930,2022-Aug-30,Microwave oven,558
+46933,2022-Aug-30,coffee machine,3352
+46966,2022-Aug-30,Vacuum cleaner,589$
+46981,2022-Aug-30,Vacuum cleaner,223
+46982,2022-Aug-30,coffee machine,2063
+47047,2022-Aug-30,TV,1315
+47136,2022-Aug-30,Vacuum cleaner,466
+47142,2022-Aug-30,Vacuum cleaner,588
+47179,2022-Aug-30,TV,1174$
+47233,2022-Aug-30,TV,1365
+47241,2022-Aug-30,TV,1444
+47272,2022-Aug-30,Vacuum cleaner,588
+47286,2022-Aug-30,TV,1030
+47332,2022-Aug-30,coffee machine,4033
+47355,2022-Aug-30,Vacuum cleaner,506
+47406,2022-Aug-30,Vacuum cleaner,618
+47413,2022-Aug-30,Phone,282
+47437,2022-Aug-30,TV,654
+47443,2022-Aug-30,Phone,1302
+47458,2022-Aug-30,Laptop,2515
